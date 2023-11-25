@@ -1,0 +1,74 @@
+<?xml version="1.0" encoding="utf-8"?>
+<PreferenceScreen
+    xmlns:app="http://schemas.android.com/apk/res-auto">
+
+    <PreferenceCategory
+        app:key="com.sasha.lampwiz.preferences.category.device"
+        app:title="@string/device_config_device_header"
+        app:iconSpaceReserved="false" >
+
+        <EditTextPreference
+            app:key="com.sasha.lampwiz.preferences.preference.device"
+            app:persistent="true"
+            app:title="@string/device_config_device_title"
+            app:useSimpleSummaryProvider="true"
+            app:iconSpaceReserved="false"
+            app:defaultValue="" />
+
+        <SwitchPreferenceCompat
+            app:key="com.sasha.lampwiz.preferences.preference.device_auto_connect"
+            app:persistent="true"
+            app:title="@string/device_config_device_auto_connect_title"
+            app:summaryOn="@string/device_config_device_auto_connect_on_summary"
+            app:summaryOff="@string/device_config_device_auto_connect_off_summary"
+            app:iconSpaceReserved="false"
+            app:defaultValue="true" />
+
+    </PreferenceCategory>
+
+    <PreferenceCategory
+        app:key="com.sasha.lampwiz.preferences.category.strip"
+        app:title="@string/device_config_strip_header"
+        app:iconSpaceReserved="false">
+
+        <ListPreference
+            app:key="com.sasha.lampwiz.preferences.preference.strip_type"
+            app:persistent="true"
+            app:title="@string/device_config_strip_type_title"
+            app:useSimpleSummaryProvider="true"
+            app:iconSpaceReserved="false"
+            app:entries="@array/device_config_strip_type_entries"
+            app:entryValues="@array/device_config_strip_type_values"
+            app:defaultValue="0" />
+
+        <ListPreference
+            app:key="com.sasha.lampwiz.preferences.preference.color_order"
+            app:persistent="true"
+            app:title="@string/device_config_strip_color_title"
+            app:useSimpleSummaryProvider="true"
+            app:iconSpaceReserved="false"
+            app:entries="@array/device_config_strip_color_entries"
+            app:entryValues="@array/device_config_strip_color_values"
+            app:defaultValue="82" />
+
+        <EditTextPreference
+            app:key="com.sasha.lampwiz.preferences.preference.strip_length"
+            app:persistent="true"
+            app:title="@string/device_config_strip_length_title"
+            app:useSimpleSummaryProvider="true"
+            app:iconSpaceReserved="false"
+            app:defaultValue="30" />
+
+        <SwitchPreferenceCompat
+            app:key="com.sasha.lampwiz.preferences.preference.device_auto_send"
+            app:persistent="true"
+            app:title="@string/device_config_device_auto_send_title"
+            app:summaryOn="@string/device_config_device_auto_send_on_summary"
+            app:summaryOff="@string/device_config_device_auto_send_off_summary"
+            app:iconSpaceReserved="false"
+            app:defaultValue="true"/>
+
+    </PreferenceCategory>
+
+
+</PreferenceScreen>

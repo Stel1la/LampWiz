@@ -1,0 +1,83 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+
+    <string name="app_name">Lampwiz</string>
+    <string name="app_version">0.1.0</string>
+    <string name="app_author">andrew@ardnew.com</string>
+
+    <string name="nav_header_app_icon_content_description">LampWiz Logo</string>
+    <string name="nav_header_title">@string/app_name</string>
+    <string name="nav_header_subtitle">@string/app_version</string>
+
+    <string name="menu_device_group">Devices</string>
+    <string name="menu_controller_group">Controllers</string>
+
+    <string name="menu_home">Home</string>
+    <string name="menu_device">Device</string>
+    <string name="menu_color">Color</string>
+    <string name="menu_effects">Effects</string>
+    <string name="menu_motion">Motion</string>
+
+    <string name="service_connection_description">Provides a persistent Bluetooth (LE) interface for maintaining communication with a LampWiz device.</string>
+    <string name="service_connection_label">LampWiz connection</string>
+
+    <string name="title_activity_main">@string/app_name</string>
+    <string name="title_activity_scan">Nearby devices</string>
+
+    <string name="home_fragment_connect_card_disconnected_image_description">Not connected to LED strip</string>
+    <string name="home_fragment_connect_card_disconnected_label">Not connected</string>
+
+    <string name="home_fragment_connect_card_connected_image_description">Connected to LED strip</string>
+
+    <string name="home_fragment_connect_card_connected_device_prompt">Device</string>
+    <string name="home_fragment_connect_card_connected_device_label">Name</string>
+    <string name="home_fragment_connect_card_connected_address_prompt">Address</string>
+    <string name="home_fragment_connect_card_connected_address_label">MAC</string>
+    <string name="home_fragment_connect_card_connected_chipset_prompt">Chipset</string>
+    <string name="home_fragment_connect_card_connected_chipset_label">Color Order, Chipset</string>
+    <string name="home_fragment_connect_card_connected_length_prompt">Length</string>
+    <string name="home_fragment_connect_card_connected_length_label">N pixels</string>
+
+    <string name="home_fragment_connect_button_disconnected">Connect to device</string>
+    <string name="home_fragment_connect_button_connected">Disconnect</string>
+
+    <string name="snackbar_scan_begin_text">Scanning for nearby Bluetooth (LE) devices…</string>
+    <string name="snackbar_scan_stop_button">Stop</string>
+    <string name="snackbar_connected_format">Connected to %s</string>
+    <string name="snackbar_disconnected_text">Disconnected from device</string>
+
+    <string name="scan_menu_text">Connect to device…</string>
+    <string name="disconnect_menu_text">Disconnect</string>
+
+    <string name="scan_permission_request">Scanning for Bluetooth (LE) peripheral devices on Android requires location services permission.</string>
+
+    <string name="fatal_alert_bluetooth_not_enabled">Bluetooth (LE) must be enabled to use this application</string>
+    <string name="fatal_alert_bluetooth_scan_not_permitted">Bluetooth (LE) peripheral device scanning is not permitted on this device</string>
+    <string name="fatal_alert_button_text">OK (Quit)</string>
+
+    <string name="exception_bluetooth_not_supported">Bluetooth (LE) is not available on this device</string>
+
+    <string name="device_card_expand_content_description">Expand</string>
+    <string name="device_card_connect_button_text">Connect</string>
+
+    <string name="device_config_device_header">Device</string>
+    <string name="device_config_device_title">Address</string>
+    <string name="device_config_device_name_title">Name</string>
+    <string name="device_config_device_auto_connect_title">Auto-connect</string>
+    <string name="device_config_device_auto_connect_on_summary">Connect to this device on startup</string>
+    <string name="device_config_device_auto_connect_off_summary">Do not connect to devices on startup</string>
+    <string name="device_config_device_auto_send_title">Auto-send color and effects</string>
+    <string name="device_config_device_auto_send_on_summary">Update strip appearance immediately when changed</string>
+    <string name="device_config_device_auto_send_off_summary">Update strip appearance only when commanded</string>
+    <string name="device_config_strip_header">LED Strip</string>
+    <string name="device_config_strip_type_title">Type</string>
+    <string name="device_config_strip_type_summary">Type of LED strip and chipset</string>
+    <string name="device_config_strip_color_title">Color order</string>
+    <string name="device_config_strip_color_summary">Ordering of color components expected by LED chipset</string>
+    <string name="device_config_strip_length_title">Number of pixels</string>
+<!-- TODO: Remove or change this placeholder text -->
+    <string name="hello_blank_fragment">Hello blank fragment</string>
+    <string name="history">History</string>
+
+
+</resources>

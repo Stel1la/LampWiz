@@ -1,0 +1,238 @@
+[
+    {
+        "merged": "C:\\Users\\azros\\AndroidStudioProjects\\android\\Blixel\\app\\build\\intermediates\\res\\merged\\debug\\drawable-mdpi_ic_device.png.flat",
+        "source": "C:\\Users\\azros\\AndroidStudioProjects\\android\\Blixel\\app\\src\\main\\res\\drawable-mdpi\\ic_device.png"
+    },
+    {
+        "merged": "C:\\Users\\azros\\AndroidStudioProjects\\android\\Blixel\\app\\build\\intermediates\\res\\merged\\debug\\drawable-xxhdpi_ic_led.png.flat",
+        "source": "C:\\Users\\azros\\AndroidStudioProjects\\android\\Blixel\\app\\src\\main\\res\\drawable-xxhdpi\\ic_led.png"
+    },
+    {
+        "merged": "C:\\Users\\azros\\AndroidStudioProjects\\android\\Blixel\\app\\build\\intermediates\\res\\merged\\debug\\drawable-hdpi_ic_connect.png.flat",
+        "source": "C:\\Users\\azros\\AndroidStudioProjects\\android\\Blixel\\app\\src\\main\\res\\drawable-hdpi\\ic_connect.png"
+    },
+    {
+        "merged": "C:\\Users\\azros\\AndroidStudioProjects\\android\\Blixel\\app\\build\\intermediates\\res\\merged\\debug\\drawable-xhdpi_ic_led.png.flat",
+        "source": "C:\\Users\\azros\\AndroidStudioProjects\\android\\Blixel\\app\\src\\main\\res\\drawable-xhdpi\\ic_led.png"
+    },
+    {
+        "merged": "C:\\Users\\azros\\AndroidStudioProjects\\android\\Blixel\\app\\build\\intermediates\\res\\merged\\debug\\drawable-mdpi_ic_motion.png.flat",
+        "source": "C:\\Users\\azros\\AndroidStudioProjects\\android\\Blixel\\app\\src\\main\\res\\drawable-mdpi\\ic_motion.png"
+    },
+    {
+        "merged": "C:\\Users\\azros\\AndroidStudioProjects\\android\\Blixel\\app\\build\\intermediates\\res\\merged\\debug\\mipmap-hdpi_app_icon.png.flat",
+        "source": "C:\\Users\\azros\\AndroidStudioProjects\\android\\Blixel\\app\\src\\main\\res\\mipmap-hdpi\\app_icon.png"
+    },
+    {
+        "merged": "C:\\Users\\azros\\AndroidStudioProjects\\android\\Blixel\\app\\build\\intermediates\\res\\merged\\debug\\drawable-xhdpi_ic_connect.png.flat",
+        "source": "C:\\Users\\azros\\AndroidStudioProjects\\android\\Blixel\\app\\src\\main\\res\\drawable-xhdpi\\ic_connect.png"
+    },
+    {
+        "merged": "C:\\Users\\azros\\AndroidStudioProjects\\android\\Blixel\\app\\build\\intermediates\\res\\merged\\debug\\drawable-xxhdpi_ic_connect.png.flat",
+        "source": "C:\\Users\\azros\\AndroidStudioProjects\\android\\Blixel\\app\\src\\main\\res\\drawable-xxhdpi\\ic_connect.png"
+    },
+    {
+        "merged": "C:\\Users\\azros\\AndroidStudioProjects\\android\\Blixel\\app\\build\\intermediates\\res\\merged\\debug\\xml_device_config.xml.flat",
+        "source": "C:\\Users\\azros\\AndroidStudioProjects\\android\\Blixel\\app\\src\\main\\res\\xml\\device_config.xml"
+    },
+    {
+        "merged": "C:\\Users\\azros\\AndroidStudioProjects\\android\\Blixel\\app\\build\\intermediates\\res\\merged\\debug\\drawable-xhdpi_ic_home.png.flat",
+        "source": "C:\\Users\\azros\\AndroidStudioProjects\\android\\Blixel\\app\\src\\main\\res\\drawable-xhdpi\\ic_home.png"
+    },
+    {
+        "merged": "C:\\Users\\azros\\AndroidStudioProjects\\android\\Blixel\\app\\build\\intermediates\\res\\merged\\debug\\drawable-hdpi_ic_led.png.flat",
+        "source": "C:\\Users\\azros\\AndroidStudioProjects\\android\\Blixel\\app\\src\\main\\res\\drawable-hdpi\\ic_led.png"
+    },
+    {
+        "merged": "C:\\Users\\azros\\AndroidStudioProjects\\android\\Blixel\\app\\build\\intermediates\\res\\merged\\debug\\drawable-mdpi_ic_connect.png.flat",
+        "source": "C:\\Users\\azros\\AndroidStudioProjects\\android\\Blixel\\app\\src\\main\\res\\drawable-mdpi\\ic_connect.png"
+    },
+    {
+        "merged": "C:\\Users\\azros\\AndroidStudioProjects\\android\\Blixel\\app\\build\\intermediates\\res\\merged\\debug\\drawable-hdpi_ic_device.png.flat",
+        "source": "C:\\Users\\azros\\AndroidStudioProjects\\android\\Blixel\\app\\src\\main\\res\\drawable-hdpi\\ic_device.png"
+    },
+    {
+        "merged": "C:\\Users\\azros\\AndroidStudioProjects\\android\\Blixel\\app\\build\\intermediates\\res\\merged\\debug\\drawable-mdpi_ic_color.png.flat",
+        "source": "C:\\Users\\azros\\AndroidStudioProjects\\android\\Blixel\\app\\src\\main\\res\\drawable-mdpi\\ic_color.png"
+    },
+    {
+        "merged": "C:\\Users\\azros\\AndroidStudioProjects\\android\\Blixel\\app\\build\\intermediates\\res\\merged\\debug\\drawable-mdpi_ic_led.png.flat",
+        "source": "C:\\Users\\azros\\AndroidStudioProjects\\android\\Blixel\\app\\src\\main\\res\\drawable-mdpi\\ic_led.png"
+    },
+    {
+        "merged": "C:\\Users\\azros\\AndroidStudioProjects\\android\\Blixel\\app\\build\\intermediates\\res\\merged\\debug\\drawable-mdpi_ic_home.png.flat",
+        "source": "C:\\Users\\azros\\AndroidStudioProjects\\android\\Blixel\\app\\src\\main\\res\\drawable-mdpi\\ic_home.png"
+    },
+    {
+        "merged": "C:\\Users\\azros\\AndroidStudioProjects\\android\\Blixel\\app\\build\\intermediates\\res\\merged\\debug\\layout_view_device_scan.xml.flat",
+        "source": "C:\\Users\\azros\\AndroidStudioProjects\\android\\Blixel\\app\\src\\main\\res\\layout\\view_device_scan.xml"
+    },
+    {
+        "merged": "C:\\Users\\azros\\AndroidStudioProjects\\android\\Blixel\\app\\build\\intermediates\\res\\merged\\debug\\drawable-xxhdpi_ic_device.png.flat",
+        "source": "C:\\Users\\azros\\AndroidStudioProjects\\android\\Blixel\\app\\src\\main\\res\\drawable-xxhdpi\\ic_device.png"
+    },
+    {
+        "merged": "C:\\Users\\azros\\AndroidStudioProjects\\android\\Blixel\\app\\build\\intermediates\\res\\merged\\debug\\xml_backup_descriptor.xml.flat",
+        "source": "C:\\Users\\azros\\AndroidStudioProjects\\android\\Blixel\\app\\src\\main\\res\\xml\\backup_descriptor.xml"
+    },
+    {
+        "merged": "C:\\Users\\azros\\AndroidStudioProjects\\android\\Blixel\\app\\build\\intermediates\\res\\merged\\debug\\color_color_nav_icon.xml.flat",
+        "source": "C:\\Users\\azros\\AndroidStudioProjects\\android\\Blixel\\app\\src\\main\\res\\color\\color_nav_icon.xml"
+    },
+    {
+        "merged": "C:\\Users\\azros\\AndroidStudioProjects\\android\\Blixel\\app\\build\\intermediates\\res\\merged\\debug\\drawable-xhdpi_ic_motion.png.flat",
+        "source": "C:\\Users\\azros\\AndroidStudioProjects\\android\\Blixel\\app\\src\\main\\res\\drawable-xhdpi\\ic_motion.png"
+    },
+    {
+        "merged": "C:\\Users\\azros\\AndroidStudioProjects\\android\\Blixel\\app\\build\\intermediates\\res\\merged\\debug\\drawable-xxxhdpi_ic_led.png.flat",
+        "source": "C:\\Users\\azros\\AndroidStudioProjects\\android\\Blixel\\app\\src\\main\\res\\drawable-xxxhdpi\\ic_led.png"
+    },
+    {
+        "merged": "C:\\Users\\azros\\AndroidStudioProjects\\android\\Blixel\\app\\build\\intermediates\\res\\merged\\debug\\layout_fragment_effects.xml.flat",
+        "source": "C:\\Users\\azros\\AndroidStudioProjects\\android\\Blixel\\app\\src\\main\\res\\layout\\fragment_effects.xml"
+    },
+    {
+        "merged": "C:\\Users\\azros\\AndroidStudioProjects\\android\\Blixel\\app\\build\\intermediates\\res\\merged\\debug\\layout_fragment_home.xml.flat",
+        "source": "C:\\Users\\azros\\AndroidStudioProjects\\android\\Blixel\\app\\src\\main\\res\\layout\\fragment_home.xml"
+    },
+    {
+        "merged": "C:\\Users\\azros\\AndroidStudioProjects\\android\\Blixel\\app\\build\\intermediates\\res\\merged\\debug\\drawable-mdpi_ic_effects.png.flat",
+        "source": "C:\\Users\\azros\\AndroidStudioProjects\\android\\Blixel\\app\\src\\main\\res\\drawable-mdpi\\ic_effects.png"
+    },
+    {
+        "merged": "C:\\Users\\azros\\AndroidStudioProjects\\android\\Blixel\\app\\build\\intermediates\\res\\merged\\debug\\drawable-hdpi_ic_color.png.flat",
+        "source": "C:\\Users\\azros\\AndroidStudioProjects\\android\\Blixel\\app\\src\\main\\res\\drawable-hdpi\\ic_color.png"
+    },
+    {
+        "merged": "C:\\Users\\azros\\AndroidStudioProjects\\android\\Blixel\\app\\build\\intermediates\\res\\merged\\debug\\menu_menu_nav.xml.flat",
+        "source": "C:\\Users\\azros\\AndroidStudioProjects\\android\\Blixel\\app\\src\\main\\res\\menu\\menu_nav.xml"
+    },
+    {
+        "merged": "C:\\Users\\azros\\AndroidStudioProjects\\android\\Blixel\\app\\build\\intermediates\\res\\merged\\debug\\drawable-xxxhdpi_ic_effects.png.flat",
+        "source": "C:\\Users\\azros\\AndroidStudioProjects\\android\\Blixel\\app\\src\\main\\res\\drawable-xxxhdpi\\ic_effects.png"
+    },
+    {
+        "merged": "C:\\Users\\azros\\AndroidStudioProjects\\android\\Blixel\\app\\build\\intermediates\\res\\merged\\debug\\drawable-xxxhdpi_ic_home.png.flat",
+        "source": "C:\\Users\\azros\\AndroidStudioProjects\\android\\Blixel\\app\\src\\main\\res\\drawable-xxxhdpi\\ic_home.png"
+    },
+    {
+        "merged": "C:\\Users\\azros\\AndroidStudioProjects\\android\\Blixel\\app\\build\\intermediates\\res\\merged\\debug\\drawable-xhdpi_ic_device.png.flat",
+        "source": "C:\\Users\\azros\\AndroidStudioProjects\\android\\Blixel\\app\\src\\main\\res\\drawable-xhdpi\\ic_device.png"
+    },
+    {
+        "merged": "C:\\Users\\azros\\AndroidStudioProjects\\android\\Blixel\\app\\build\\intermediates\\res\\merged\\debug\\color_button_surface.xml.flat",
+        "source": "C:\\Users\\azros\\AndroidStudioProjects\\android\\Blixel\\app\\src\\main\\res\\color\\button_surface.xml"
+    },
+    {
+        "merged": "C:\\Users\\azros\\AndroidStudioProjects\\android\\Blixel\\app\\build\\intermediates\\res\\merged\\debug\\drawable-xhdpi_ic_color.png.flat",
+        "source": "C:\\Users\\azros\\AndroidStudioProjects\\android\\Blixel\\app\\src\\main\\res\\drawable-xhdpi\\ic_color.png"
+    },
+    {
+        "merged": "C:\\Users\\azros\\AndroidStudioProjects\\android\\Blixel\\app\\build\\intermediates\\res\\merged\\debug\\drawable-hdpi_ic_effects.png.flat",
+        "source": "C:\\Users\\azros\\AndroidStudioProjects\\android\\Blixel\\app\\src\\main\\res\\drawable-hdpi\\ic_effects.png"
+    },
+    {
+        "merged": "C:\\Users\\azros\\AndroidStudioProjects\\android\\Blixel\\app\\build\\intermediates\\res\\merged\\debug\\layout_layout_nav_header.xml.flat",
+        "source": "C:\\Users\\azros\\AndroidStudioProjects\\android\\Blixel\\app\\src\\main\\res\\layout\\layout_nav_header.xml"
+    },
+    {
+        "merged": "C:\\Users\\azros\\AndroidStudioProjects\\android\\Blixel\\app\\build\\intermediates\\res\\merged\\debug\\layout_fragment_color.xml.flat",
+        "source": "C:\\Users\\azros\\AndroidStudioProjects\\android\\Blixel\\app\\src\\main\\res\\layout\\fragment_color.xml"
+    },
+    {
+        "merged": "C:\\Users\\azros\\AndroidStudioProjects\\android\\Blixel\\app\\build\\intermediates\\res\\merged\\debug\\layout_fragment_device.xml.flat",
+        "source": "C:\\Users\\azros\\AndroidStudioProjects\\android\\Blixel\\app\\src\\main\\res\\layout\\fragment_device.xml"
+    },
+    {
+        "merged": "C:\\Users\\azros\\AndroidStudioProjects\\android\\Blixel\\app\\build\\intermediates\\res\\merged\\debug\\drawable_app_icon.png.flat",
+        "source": "C:\\Users\\azros\\AndroidStudioProjects\\android\\Blixel\\app\\src\\main\\res\\drawable\\app_icon.png"
+    },
+    {
+        "merged": "C:\\Users\\azros\\AndroidStudioProjects\\android\\Blixel\\app\\build\\intermediates\\res\\merged\\debug\\drawable-xxxhdpi_ic_motion.png.flat",
+        "source": "C:\\Users\\azros\\AndroidStudioProjects\\android\\Blixel\\app\\src\\main\\res\\drawable-xxxhdpi\\ic_motion.png"
+    },
+    {
+        "merged": "C:\\Users\\azros\\AndroidStudioProjects\\android\\Blixel\\app\\build\\intermediates\\res\\merged\\debug\\drawable-xxxhdpi_ic_color.png.flat",
+        "source": "C:\\Users\\azros\\AndroidStudioProjects\\android\\Blixel\\app\\src\\main\\res\\drawable-xxxhdpi\\ic_color.png"
+    },
+    {
+        "merged": "C:\\Users\\azros\\AndroidStudioProjects\\android\\Blixel\\app\\build\\intermediates\\res\\merged\\debug\\drawable-xhdpi_background_nav.xml.flat",
+        "source": "C:\\Users\\azros\\AndroidStudioProjects\\android\\Blixel\\app\\src\\main\\res\\drawable-xhdpi\\background_nav.xml"
+    },
+    {
+        "merged": "C:\\Users\\azros\\AndroidStudioProjects\\android\\Blixel\\app\\build\\intermediates\\res\\merged\\debug\\drawable_background_home_card.xml.flat",
+        "source": "C:\\Users\\azros\\AndroidStudioProjects\\android\\Blixel\\app\\src\\main\\res\\drawable\\background_home_card.xml"
+    },
+    {
+        "merged": "C:\\Users\\azros\\AndroidStudioProjects\\android\\Blixel\\app\\build\\intermediates\\res\\merged\\debug\\drawable-xxxhdpi_ic_device.png.flat",
+        "source": "C:\\Users\\azros\\AndroidStudioProjects\\android\\Blixel\\app\\src\\main\\res\\drawable-xxxhdpi\\ic_device.png"
+    },
+    {
+        "merged": "C:\\Users\\azros\\AndroidStudioProjects\\android\\Blixel\\app\\build\\intermediates\\res\\merged\\debug\\color_button_text.xml.flat",
+        "source": "C:\\Users\\azros\\AndroidStudioProjects\\android\\Blixel\\app\\src\\main\\res\\color\\button_text.xml"
+    },
+    {
+        "merged": "C:\\Users\\azros\\AndroidStudioProjects\\android\\Blixel\\app\\build\\intermediates\\res\\merged\\debug\\menu_menu_toolbar_main.xml.flat",
+        "source": "C:\\Users\\azros\\AndroidStudioProjects\\android\\Blixel\\app\\src\\main\\res\\menu\\menu_toolbar_main.xml"
+    },
+    {
+        "merged": "C:\\Users\\azros\\AndroidStudioProjects\\android\\Blixel\\app\\build\\intermediates\\res\\merged\\debug\\layout_fragment_motion.xml.flat",
+        "source": "C:\\Users\\azros\\AndroidStudioProjects\\android\\Blixel\\app\\src\\main\\res\\layout\\fragment_motion.xml"
+    },
+    {
+        "merged": "C:\\Users\\azros\\AndroidStudioProjects\\android\\Blixel\\app\\build\\intermediates\\res\\merged\\debug\\drawable-xxxhdpi_ic_connect.png.flat",
+        "source": "C:\\Users\\azros\\AndroidStudioProjects\\android\\Blixel\\app\\src\\main\\res\\drawable-xxxhdpi\\ic_connect.png"
+    },
+    {
+        "merged": "C:\\Users\\azros\\AndroidStudioProjects\\android\\Blixel\\app\\build\\intermediates\\res\\merged\\debug\\drawable-xxhdpi_ic_home.png.flat",
+        "source": "C:\\Users\\azros\\AndroidStudioProjects\\android\\Blixel\\app\\src\\main\\res\\drawable-xxhdpi\\ic_home.png"
+    },
+    {
+        "merged": "C:\\Users\\azros\\AndroidStudioProjects\\android\\Blixel\\app\\build\\intermediates\\res\\merged\\debug\\drawable-xhdpi_ic_effects.png.flat",
+        "source": "C:\\Users\\azros\\AndroidStudioProjects\\android\\Blixel\\app\\src\\main\\res\\drawable-xhdpi\\ic_effects.png"
+    },
+    {
+        "merged": "C:\\Users\\azros\\AndroidStudioProjects\\android\\Blixel\\app\\build\\intermediates\\res\\merged\\debug\\layout_layout_main.xml.flat",
+        "source": "C:\\Users\\azros\\AndroidStudioProjects\\android\\Blixel\\app\\src\\main\\res\\layout\\layout_main.xml"
+    },
+    {
+        "merged": "C:\\Users\\azros\\AndroidStudioProjects\\android\\Blixel\\app\\build\\intermediates\\res\\merged\\debug\\color_color_nav_text.xml.flat",
+        "source": "C:\\Users\\azros\\AndroidStudioProjects\\android\\Blixel\\app\\src\\main\\res\\color\\color_nav_text.xml"
+    },
+    {
+        "merged": "C:\\Users\\azros\\AndroidStudioProjects\\android\\Blixel\\app\\build\\intermediates\\res\\merged\\debug\\drawable-xxhdpi_ic_color.png.flat",
+        "source": "C:\\Users\\azros\\AndroidStudioProjects\\android\\Blixel\\app\\src\\main\\res\\drawable-xxhdpi\\ic_color.png"
+    },
+    {
+        "merged": "C:\\Users\\azros\\AndroidStudioProjects\\android\\Blixel\\app\\build\\intermediates\\res\\merged\\debug\\drawable-xxhdpi_ic_effects.png.flat",
+        "source": "C:\\Users\\azros\\AndroidStudioProjects\\android\\Blixel\\app\\src\\main\\res\\drawable-xxhdpi\\ic_effects.png"
+    },
+    {
+        "merged": "C:\\Users\\azros\\AndroidStudioProjects\\android\\Blixel\\app\\build\\intermediates\\res\\merged\\debug\\drawable-hdpi_ic_motion.png.flat",
+        "source": "C:\\Users\\azros\\AndroidStudioProjects\\android\\Blixel\\app\\src\\main\\res\\drawable-hdpi\\ic_motion.png"
+    },
+    {
+        "merged": "C:\\Users\\azros\\AndroidStudioProjects\\android\\Blixel\\app\\build\\intermediates\\res\\merged\\debug\\drawable-xhdpi_background_nav_header.xml.flat",
+        "source": "C:\\Users\\azros\\AndroidStudioProjects\\android\\Blixel\\app\\src\\main\\res\\drawable-xhdpi\\background_nav_header.xml"
+    },
+    {
+        "merged": "C:\\Users\\azros\\AndroidStudioProjects\\android\\Blixel\\app\\build\\intermediates\\res\\merged\\debug\\layout_view_color_picker.xml.flat",
+        "source": "C:\\Users\\azros\\AndroidStudioProjects\\android\\Blixel\\app\\src\\main\\res\\layout\\view_color_picker.xml"
+    },
+    {
+        "merged": "C:\\Users\\azros\\AndroidStudioProjects\\android\\Blixel\\app\\build\\intermediates\\res\\merged\\debug\\layout_layout_scan.xml.flat",
+        "source": "C:\\Users\\azros\\AndroidStudioProjects\\android\\Blixel\\app\\src\\main\\res\\layout\\layout_scan.xml"
+    },
+    {
+        "merged": "C:\\Users\\azros\\AndroidStudioProjects\\android\\Blixel\\app\\build\\intermediates\\res\\merged\\debug\\navigation_navigation_main.xml.flat",
+        "source": "C:\\Users\\azros\\AndroidStudioProjects\\android\\Blixel\\app\\src\\main\\res\\navigation\\navigation_main.xml"
+    },
+    {
+        "merged": "C:\\Users\\azros\\AndroidStudioProjects\\android\\Blixel\\app\\build\\intermediates\\res\\merged\\debug\\drawable-xxhdpi_ic_motion.png.flat",
+        "source": "C:\\Users\\azros\\AndroidStudioProjects\\android\\Blixel\\app\\src\\main\\res\\drawable-xxhdpi\\ic_motion.png"
+    },
+    {
+        "merged": "C:\\Users\\azros\\AndroidStudioProjects\\android\\Blixel\\app\\build\\intermediates\\res\\merged\\debug\\drawable-hdpi_ic_home.png.flat",
+        "source": "C:\\Users\\azros\\AndroidStudioProjects\\android\\Blixel\\app\\src\\main\\res\\drawable-hdpi\\ic_home.png"
+    }
+]

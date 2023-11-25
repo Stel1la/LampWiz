@@ -1,0 +1,24 @@
+<?xml version="1.0" encoding="utf-8"?>
+<menu
+    xmlns:android="http://schemas.android.com/apk/res/android"
+    xmlns:app="http://schemas.android.com/apk/res-auto">
+
+    <item
+        android:id="@+id/scan_menu_item"
+        android:checkable="false"
+        android:enabled="true"
+        android:icon="@android:drawable/stat_sys_data_bluetooth"
+        android:title="@string/scan_menu_text"
+        android:visible="true"
+        app:showAsAction="never" />
+
+    <item
+        android:id="@+id/disconnect_menu_item"
+        android:checkable="false"
+        android:enabled="true"
+        android:icon="@android:drawable/ic_menu_close_clear_cancel"
+        android:title="@string/disconnect_menu_text"
+        android:visible="true"
+        app:showAsAction="never" />
+
+</menu>

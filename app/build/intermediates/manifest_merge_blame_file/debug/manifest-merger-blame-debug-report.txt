@@ -1,0 +1,132 @@
+1<?xml version="1.0" encoding="utf-8"?>
+2<manifest xmlns:android="http://schemas.android.com/apk/res/android"
+3    package="com.sasha.lampwiz"
+4    android:versionCode="1"
+5    android:versionName="0.1.0" >
+6
+7    <uses-sdk
+8        android:minSdkVersion="23"
+8-->C:\Users\SASHA\Desktop\LampWiz\app\src\main\AndroidManifest.xml
+9        android:targetSdkVersion="29" />
+9-->C:\Users\SASHA\Desktop\LampWiz\app\src\main\AndroidManifest.xml
+10
+11    <uses-permission android:name="android.permission.BLUETOOTH" />
+11-->C:\Users\SASHA\Desktop\LampWiz\app\src\main\AndroidManifest.xml:6:5-68
+11-->C:\Users\SASHA\Desktop\LampWiz\app\src\main\AndroidManifest.xml:6:22-65
+12    <uses-permission android:name="android.permission.BLUETOOTH_ADMIN" />
+12-->C:\Users\SASHA\Desktop\LampWiz\app\src\main\AndroidManifest.xml:7:5-74
+12-->C:\Users\SASHA\Desktop\LampWiz\app\src\main\AndroidManifest.xml:7:22-71
+13    <uses-permission android:name="android.permission.ACCESS_FINE_LOCATION" />
+13-->C:\Users\SASHA\Desktop\LampWiz\app\src\main\AndroidManifest.xml:8:5-79
+13-->C:\Users\SASHA\Desktop\LampWiz\app\src\main\AndroidManifest.xml:8:22-76
+14    <uses-permission android:name="android.permission.ACCESS_COARSE_LOCATION" />
+14-->C:\Users\SASHA\Desktop\LampWiz\app\src\main\AndroidManifest.xml:9:5-81
+14-->C:\Users\SASHA\Desktop\LampWiz\app\src\main\AndroidManifest.xml:9:22-78
+15    <uses-permission android:name="android.permission.FOREGROUND_SERVICE" />
+15-->C:\Users\SASHA\Desktop\LampWiz\app\src\main\AndroidManifest.xml:10:5-77
+15-->C:\Users\SASHA\Desktop\LampWiz\app\src\main\AndroidManifest.xml:10:22-74
+16
+17    <uses-feature
+17-->C:\Users\SASHA\Desktop\LampWiz\app\src\main\AndroidManifest.xml:12:5-14:35
+18        android:name="android.hardware.bluetooth_le"
+18-->C:\Users\SASHA\Desktop\LampWiz\app\src\main\AndroidManifest.xml:13:9-53
+19        android:required="true" />
+19-->C:\Users\SASHA\Desktop\LampWiz\app\src\main\AndroidManifest.xml:14:9-32
+20
+21    <application
+21-->C:\Users\SASHA\Desktop\LampWiz\app\src\main\AndroidManifest.xml:16:5-54:19
+22        android:name="com.sasha.lampwiz.LampWiz"
+22-->C:\Users\SASHA\Desktop\LampWiz\app\src\main\AndroidManifest.xml:17:9-49
+23        android:allowBackup="true"
+23-->C:\Users\SASHA\Desktop\LampWiz\app\src\main\AndroidManifest.xml:18:9-35
+24        android:appComponentFactory="androidx.core.app.CoreComponentFactory"
+24-->[androidx.core:core:1.1.0] C:\Users\SASHA\.gradle\caches\transforms-3\0d1be357180595c9fada004a40a95f33\transformed\core-1.1.0\AndroidManifest.xml:24:18-86
+25        android:debuggable="true"
+26        android:extractNativeLibs="false"
+27        android:fullBackupContent="@xml/backup_descriptor"
+27-->C:\Users\SASHA\Desktop\LampWiz\app\src\main\AndroidManifest.xml:24:9-59
+28        android:icon="@mipmap/app_icon"
+28-->C:\Users\SASHA\Desktop\LampWiz\app\src\main\AndroidManifest.xml:19:9-40
+29        android:label="@string/app_name"
+29-->C:\Users\SASHA\Desktop\LampWiz\app\src\main\AndroidManifest.xml:20:9-41
+30        android:roundIcon="@mipmap/app_icon"
+30-->C:\Users\SASHA\Desktop\LampWiz\app\src\main\AndroidManifest.xml:21:9-45
+31        android:supportsRtl="true"
+31-->C:\Users\SASHA\Desktop\LampWiz\app\src\main\AndroidManifest.xml:22:9-35
+32        android:testOnly="true"
+33        android:theme="@style/AppTheme" >
+33-->C:\Users\SASHA\Desktop\LampWiz\app\src\main\AndroidManifest.xml:23:9-40
+34        <service
+34-->C:\Users\SASHA\Desktop\LampWiz\app\src\main\AndroidManifest.xml:26:9-31:64
+35            android:name="com.sasha.lampwiz.bluetooth.Connection"
+35-->C:\Users\SASHA\Desktop\LampWiz\app\src\main\AndroidManifest.xml:27:13-66
+36            android:description="@string/service_connection_description"
+36-->C:\Users\SASHA\Desktop\LampWiz\app\src\main\AndroidManifest.xml:28:13-73
+37            android:enabled="true"
+37-->C:\Users\SASHA\Desktop\LampWiz\app\src\main\AndroidManifest.xml:29:13-35
+38            android:exported="false"
+38-->C:\Users\SASHA\Desktop\LampWiz\app\src\main\AndroidManifest.xml:30:13-37
+39            android:label="@string/service_connection_label" />
+39-->C:\Users\SASHA\Desktop\LampWiz\app\src\main\AndroidManifest.xml:31:13-61
+40
+41        <activity
+41-->C:\Users\SASHA\Desktop\LampWiz\app\src\main\AndroidManifest.xml:33:9-41:20
+42            android:name="com.sasha.lampwiz.activity.scan.ScanActivity"
+42-->C:\Users\SASHA\Desktop\LampWiz\app\src\main\AndroidManifest.xml:34:13-72
+43            android:label="@string/title_activity_scan"
+43-->C:\Users\SASHA\Desktop\LampWiz\app\src\main\AndroidManifest.xml:35:13-56
+44            android:parentActivityName="com.sasha.lampwiz.activity.main.MainActivity"
+44-->C:\Users\SASHA\Desktop\LampWiz\app\src\main\AndroidManifest.xml:36:13-86
+45            android:theme="@style/AppTheme.NoActionBar" >
+45-->C:\Users\SASHA\Desktop\LampWiz\app\src\main\AndroidManifest.xml:37:13-56
+46            <meta-data
+46-->C:\Users\SASHA\Desktop\LampWiz\app\src\main\AndroidManifest.xml:38:13-40:80
+47                android:name="android.support.PARENT_ACTIVITY"
+47-->C:\Users\SASHA\Desktop\LampWiz\app\src\main\AndroidManifest.xml:39:17-63
+48                android:value="com.sasha.lampwiz.activity.main.MainActivity" />
+48-->C:\Users\SASHA\Desktop\LampWiz\app\src\main\AndroidManifest.xml:40:17-77
+49        </activity>
+50        <activity
+50-->C:\Users\SASHA\Desktop\LampWiz\app\src\main\AndroidManifest.xml:43:9-52:20
+51            android:name="com.sasha.lampwiz.activity.main.MainActivity"
+51-->C:\Users\SASHA\Desktop\LampWiz\app\src\main\AndroidManifest.xml:44:13-72
+52            android:label="@string/title_activity_main"
+52-->C:\Users\SASHA\Desktop\LampWiz\app\src\main\AndroidManifest.xml:45:13-56
+53            android:launchMode="singleTop"
+53-->C:\Users\SASHA\Desktop\LampWiz\app\src\main\AndroidManifest.xml:46:13-43
+54            android:theme="@style/AppTheme.NoActionBar" >
+54-->C:\Users\SASHA\Desktop\LampWiz\app\src\main\AndroidManifest.xml:47:13-56
+55            <intent-filter>
+55-->C:\Users\SASHA\Desktop\LampWiz\app\src\main\AndroidManifest.xml:48:13-51:29
+56                <action android:name="android.intent.action.MAIN" />
+56-->C:\Users\SASHA\Desktop\LampWiz\app\src\main\AndroidManifest.xml:49:17-69
+56-->C:\Users\SASHA\Desktop\LampWiz\app\src\main\AndroidManifest.xml:49:25-66
+57
+58                <category android:name="android.intent.category.LAUNCHER" />
+58-->C:\Users\SASHA\Desktop\LampWiz\app\src\main\AndroidManifest.xml:50:17-77
+58-->C:\Users\SASHA\Desktop\LampWiz\app\src\main\AndroidManifest.xml:50:27-74
+59            </intent-filter>
+60        </activity>
+61
+62        <service
+62-->[androidx.room:room-runtime:2.6.0] C:\Users\SASHA\.gradle\caches\transforms-3\d03bcee5c420869636350ca3dfbd123b\transformed\room-runtime-2.6.0\AndroidManifest.xml:24:9-28:63
+63            android:name="androidx.room.MultiInstanceInvalidationService"
+63-->[androidx.room:room-runtime:2.6.0] C:\Users\SASHA\.gradle\caches\transforms-3\d03bcee5c420869636350ca3dfbd123b\transformed\room-runtime-2.6.0\AndroidManifest.xml:25:13-74
+64            android:directBootAware="true"
+64-->[androidx.room:room-runtime:2.6.0] C:\Users\SASHA\.gradle\caches\transforms-3\d03bcee5c420869636350ca3dfbd123b\transformed\room-runtime-2.6.0\AndroidManifest.xml:26:13-43
+65            android:exported="false" />
+65-->[androidx.room:room-runtime:2.6.0] C:\Users\SASHA\.gradle\caches\transforms-3\d03bcee5c420869636350ca3dfbd123b\transformed\room-runtime-2.6.0\AndroidManifest.xml:27:13-37
+66
+67        <provider
+67-->[androidx.lifecycle:lifecycle-process:2.2.0] C:\Users\SASHA\.gradle\caches\transforms-3\93cdecdf35e0ebb0a6747a982095a512\transformed\jetified-lifecycle-process-2.2.0\AndroidManifest.xml:25:9-29:43
+68            android:name="androidx.lifecycle.ProcessLifecycleOwnerInitializer"
+68-->[androidx.lifecycle:lifecycle-process:2.2.0] C:\Users\SASHA\.gradle\caches\transforms-3\93cdecdf35e0ebb0a6747a982095a512\transformed\jetified-lifecycle-process-2.2.0\AndroidManifest.xml:26:13-79
+69            android:authorities="com.sasha.lampwiz.lifecycle-process"
+69-->[androidx.lifecycle:lifecycle-process:2.2.0] C:\Users\SASHA\.gradle\caches\transforms-3\93cdecdf35e0ebb0a6747a982095a512\transformed\jetified-lifecycle-process-2.2.0\AndroidManifest.xml:27:13-69
+70            android:exported="false"
+70-->[androidx.lifecycle:lifecycle-process:2.2.0] C:\Users\SASHA\.gradle\caches\transforms-3\93cdecdf35e0ebb0a6747a982095a512\transformed\jetified-lifecycle-process-2.2.0\AndroidManifest.xml:28:13-37
+71            android:multiprocess="true" />
+71-->[androidx.lifecycle:lifecycle-process:2.2.0] C:\Users\SASHA\.gradle\caches\transforms-3\93cdecdf35e0ebb0a6747a982095a512\transformed\jetified-lifecycle-process-2.2.0\AndroidManifest.xml:29:13-40
+72    </application>
+73
+74</manifest>

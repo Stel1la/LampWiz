@@ -1,0 +1,50 @@
+<?xml version="1.0" encoding="utf-8"?>
+<menu
+    xmlns:android="http://schemas.android.com/apk/res/android"
+    xmlns:tools="http://schemas.android.com/tools"
+    tools:showIn="navigation_view">
+
+    <group android:checkableBehavior="single">
+
+        <item
+            android:id="@+id/nav_home"
+            android:icon="@drawable/ic_home"
+            android:title="@string/menu_home"
+            android:enabled="true"
+            android:visible="true"
+            android:checkable="true" />
+        <item
+            android:id="@+id/nav_color"
+            android:icon="@drawable/ic_color"
+            android:title="@string/menu_color"
+            android:enabled="true"
+            android:visible="true"
+            android:checkable="true" />
+
+        <item
+            android:id="@+id/nav_history"
+            android:icon="@drawable/history_icon"
+            android:title="@string/history"
+            android:enabled="true"
+            android:visible="true"
+            android:checkable="true" />
+
+        <item
+            android:id="@+id/nav_group_device"
+            android:title="@string/menu_device_group"
+            android:enabled="false"
+            android:visible="true"
+            android:checkable="false" >
+            <menu>
+                <item
+                    android:id="@+id/nav_device"
+                    android:icon="@drawable/ic_device"
+                    android:title="@string/menu_device"
+                    android:enabled="true"
+                    android:visible="true"
+                    android:checkable="true" />
+            </menu>
+        </item>
+
+    </group>
+</menu>

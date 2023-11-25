@@ -1,0 +1,42 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+
+    <color name="color_transparent">#00FFFFFF</color>
+
+    <color name="color_primary_surface">#121212</color>
+    <color name="color_secondary_surface">#08001B</color>
+    <color name="color_tertiary_surface">#1C0044</color>
+
+    <color name="color_primary_text">#FFFFFF</color>
+    <color name="color_secondary_text">#CCCCCC</color>
+    <color name="color_tertiary_text">#999999</color>
+
+    <color name="color_primary_highlight">#03DAC5</color>
+    <color name="color_primary_accent">#CCFF55</color>
+
+    <color name="color_button_enabled_surface">@color/color_primary_accent</color>
+    <color name="color_button_enabled_text">@color/color_primary_surface</color>
+    <color name="color_button_disabled_surface">@color/color_primary_surface</color>
+    <color name="color_button_disabled_text">@color/color_secondary_surface</color>
+
+    <color name="color_snackbar_surface">@color/color_primary_accent</color>
+    <color name="color_snackbar_text">@color/color_primary_surface</color>
+    <color name="color_snackbar_button_text">@color/color_secondary_surface</color>
+
+    <color name="color_swipe_progress_background">@color/color_primary_accent</color>
+    <color name="color_swipe_progress_foreground1">@color/color_primary_surface</color>
+    <color name="color_swipe_progress_foreground2">@color/color_secondary_surface</color>
+    <color name="color_swipe_progress_foreground3">@color/color_tertiary_surface</color>
+    <color name="color_swipe_progress_foreground4">@color/color_secondary_surface</color>
+
+    <color name="color_device_card_header_surface">@color/color_tertiary_surface</color>
+    <color name="color_device_card_body_surface">@color/color_secondary_surface</color>
+    <color name="color_device_card_address_text">@color/color_primary_text</color>
+    <color name="color_device_card_rssi_text">@color/color_primary_text</color>
+    <color name="color_device_card_name_text">@color/color_secondary_text</color>
+    <color name="color_device_card_mfg_text">@color/color_tertiary_text</color>
+    <color name="color_device_card_services_text">@color/color_tertiary_text</color>
+
+    <color name="color_picker_initial">@color/color_primary_accent</color>
+
+</resources>

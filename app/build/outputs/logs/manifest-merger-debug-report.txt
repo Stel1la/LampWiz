@@ -1,0 +1,329 @@
+-- Merging decision tree log ---
+manifest
+ADDED from C:\Users\SASHA\Desktop\LampWiz\app\src\main\AndroidManifest.xml:2:1-56:12
+INJECTED from C:\Users\SASHA\Desktop\LampWiz\app\src\main\AndroidManifest.xml:2:1-56:12
+INJECTED from C:\Users\SASHA\Desktop\LampWiz\app\src\main\AndroidManifest.xml:2:1-56:12
+INJECTED from C:\Users\SASHA\Desktop\LampWiz\app\src\main\AndroidManifest.xml:2:1-56:12
+MERGED from [androidx.preference:preference:1.1.1] C:\Users\SASHA\.gradle\caches\transforms-3\36a10ebf6728e243a2dfce933adf8f4a\transformed\preference-1.1.1\AndroidManifest.xml:17:1-24:12
+MERGED from [com.github.QuadFlask:colorpicker:0.0.15] C:\Users\SASHA\.gradle\caches\transforms-3\cf5527f28aab1ef6745d30508ffbff97\transformed\jetified-colorpicker-0.0.15\AndroidManifest.xml:2:1-13:12
+MERGED from [androidx.navigation:navigation-ui:2.2.2] C:\Users\SASHA\.gradle\caches\transforms-3\1b36bf8ab16e2ab77e8289a7d49ce3bb\transformed\navigation-ui-2.2.2\AndroidManifest.xml:17:1-24:12
+MERGED from [com.google.android.material:material:1.1.0] C:\Users\SASHA\.gradle\caches\transforms-3\f5826943bf6beef5e6982b6895a84815\transformed\material-1.1.0\AndroidManifest.xml:17:1-24:12
+MERGED from [androidx.appcompat:appcompat:1.1.0] C:\Users\SASHA\.gradle\caches\transforms-3\7208d67472441715d1167eab9181d58e\transformed\appcompat-1.1.0\AndroidManifest.xml:17:1-24:12
+MERGED from [androidx.constraintlayout:constraintlayout:1.1.3] C:\Users\SASHA\.gradle\caches\transforms-3\13e16167675b0703369ad876dcfd0cfb\transformed\constraintlayout-1.1.3\AndroidManifest.xml:2:1-11:12
+MERGED from [androidx.legacy:legacy-support-v4:1.0.0] C:\Users\SASHA\.gradle\caches\transforms-3\44d66019629001601723e3e8e6792438\transformed\legacy-support-v4-1.0.0\AndroidManifest.xml:17:1-22:12
+MERGED from [androidx.lifecycle:lifecycle-extensions:2.2.0] C:\Users\SASHA\.gradle\caches\transforms-3\5746758fe4fe6d736fbc196377e5d59a\transformed\lifecycle-extensions-2.2.0\AndroidManifest.xml:17:1-27:12
+MERGED from [androidx.navigation:navigation-fragment:2.2.2] C:\Users\SASHA\.gradle\caches\transforms-3\faa4c14e85a22c6dd4117e5f2e1f104a\transformed\navigation-fragment-2.2.2\AndroidManifest.xml:17:1-24:12
+MERGED from [androidx.viewpager2:viewpager2:1.0.0] C:\Users\SASHA\.gradle\caches\transforms-3\0ee68bfbd682d7e290626937651372ad\transformed\jetified-viewpager2-1.0.0\AndroidManifest.xml:17:1-24:12
+MERGED from [androidx.fragment:fragment:1.2.4] C:\Users\SASHA\.gradle\caches\transforms-3\b691e3e3988a28fdc6fd58ff79fe9aa1\transformed\fragment-1.2.4\AndroidManifest.xml:17:1-24:12
+MERGED from [androidx.navigation:navigation-runtime:2.2.2] C:\Users\SASHA\.gradle\caches\transforms-3\20d06e5e27951af8ebb8efdf258f5f8a\transformed\navigation-runtime-2.2.2\AndroidManifest.xml:17:1-24:12
+MERGED from [androidx.activity:activity:1.1.0] C:\Users\SASHA\.gradle\caches\transforms-3\859180bb677d07452d44209a6e122258\transformed\jetified-activity-1.1.0\AndroidManifest.xml:17:1-24:12
+MERGED from [androidx.lifecycle:lifecycle-viewmodel-savedstate:2.3.0-alpha03] C:\Users\SASHA\.gradle\caches\transforms-3\bb5a79e687c071018d07476c8f0cd2b8\transformed\jetified-lifecycle-viewmodel-savedstate-2.3.0-alpha03\AndroidManifest.xml:17:1-24:12
+MERGED from [androidx.recyclerview:recyclerview:1.1.0] C:\Users\SASHA\.gradle\caches\transforms-3\722cfa06d51a32340f337ac9798393bf\transformed\recyclerview-1.1.0\AndroidManifest.xml:17:1-24:12
+MERGED from [androidx.legacy:legacy-support-core-ui:1.0.0] C:\Users\SASHA\.gradle\caches\transforms-3\5eff1425e4617f572a315b3a04b185a4\transformed\legacy-support-core-ui-1.0.0\AndroidManifest.xml:17:1-22:12
+MERGED from [androidx.swiperefreshlayout:swiperefreshlayout:1.0.0] C:\Users\SASHA\.gradle\caches\transforms-3\788b2866ce1062b2ae316790421045ad\transformed\swiperefreshlayout-1.0.0\AndroidManifest.xml:17:1-22:12
+MERGED from [androidx.room:room-rxjava3:2.6.0] C:\Users\SASHA\.gradle\caches\transforms-3\1424b33f19cab0844788b3773dbd46a6\transformed\jetified-room-rxjava3-2.6.0\AndroidManifest.xml:17:1-22:12
+MERGED from [androidx.room:room-rxjava2:2.6.0] C:\Users\SASHA\.gradle\caches\transforms-3\8def285fd8c62d725118732ad8d9e7e2\transformed\room-rxjava2-2.6.0\AndroidManifest.xml:17:1-22:12
+MERGED from [androidx.room:room-runtime:2.6.0] C:\Users\SASHA\.gradle\caches\transforms-3\d03bcee5c420869636350ca3dfbd123b\transformed\room-runtime-2.6.0\AndroidManifest.xml:17:1-31:12
+MERGED from [io.reactivex.rxjava2:rxandroid:2.1.1] C:\Users\SASHA\.gradle\caches\transforms-3\5d94229c92a719f7edbd15af35d2edc6\transformed\jetified-rxandroid-2.1.1\AndroidManifest.xml:15:1-20:12
+MERGED from [androidx.appcompat:appcompat-resources:1.1.0] C:\Users\SASHA\.gradle\caches\transforms-3\b204d6486c6c201251274434766486bd\transformed\jetified-appcompat-resources-1.1.0\AndroidManifest.xml:17:1-24:12
+MERGED from [androidx.drawerlayout:drawerlayout:1.0.0] C:\Users\SASHA\.gradle\caches\transforms-3\f967ef6252e4ec79b8a489b7b97a4a74\transformed\drawerlayout-1.0.0\AndroidManifest.xml:17:1-22:12
+MERGED from [androidx.media:media:1.0.0] C:\Users\SASHA\.gradle\caches\transforms-3\abedd8388bdbd55803e370bace33339f\transformed\media-1.0.0\AndroidManifest.xml:17:1-22:12
+MERGED from [androidx.legacy:legacy-support-core-utils:1.0.0] C:\Users\SASHA\.gradle\caches\transforms-3\bf2a6d46c92d2b1b015ce44f75d834ab\transformed\legacy-support-core-utils-1.0.0\AndroidManifest.xml:17:1-22:12
+MERGED from [androidx.coordinatorlayout:coordinatorlayout:1.1.0] C:\Users\SASHA\.gradle\caches\transforms-3\8255cf8f73e0ec2d884b3aa8102e6cd4\transformed\coordinatorlayout-1.1.0\AndroidManifest.xml:17:1-24:12
+MERGED from [androidx.viewpager:viewpager:1.0.0] C:\Users\SASHA\.gradle\caches\transforms-3\064f6efcf72e45025c96c41bb0313fb3\transformed\viewpager-1.0.0\AndroidManifest.xml:17:1-22:12
+MERGED from [androidx.slidingpanelayout:slidingpanelayout:1.0.0] C:\Users\SASHA\.gradle\caches\transforms-3\bb581f0f45aa35f890c6008351162320\transformed\slidingpanelayout-1.0.0\AndroidManifest.xml:17:1-22:12
+MERGED from [androidx.customview:customview:1.0.0] C:\Users\SASHA\.gradle\caches\transforms-3\62c5e7261b28a421717026579decefb0\transformed\customview-1.0.0\AndroidManifest.xml:17:1-22:12
+MERGED from [androidx.transition:transition:1.2.0] C:\Users\SASHA\.gradle\caches\transforms-3\cf7ed2c7db25c1ed83dad3026c9a2688\transformed\transition-1.2.0\AndroidManifest.xml:17:1-24:12
+MERGED from [androidx.vectordrawable:vectordrawable-animated:1.1.0] C:\Users\SASHA\.gradle\caches\transforms-3\5d6dbb7a2526cb46a310f1fa772a8328\transformed\vectordrawable-animated-1.1.0\AndroidManifest.xml:17:1-24:12
+MERGED from [androidx.vectordrawable:vectordrawable:1.1.0] C:\Users\SASHA\.gradle\caches\transforms-3\c17573ade799759c56baf884a28f8de6\transformed\vectordrawable-1.1.0\AndroidManifest.xml:17:1-24:12
+MERGED from [androidx.loader:loader:1.0.0] C:\Users\SASHA\.gradle\caches\transforms-3\f4e7914e58ba093567760f9d22f3626d\transformed\loader-1.0.0\AndroidManifest.xml:17:1-22:12
+MERGED from [androidx.asynclayoutinflater:asynclayoutinflater:1.0.0] C:\Users\SASHA\.gradle\caches\transforms-3\dc51215a0ae0eec1cc8d2679f7af5fd0\transformed\asynclayoutinflater-1.0.0\AndroidManifest.xml:17:1-22:12
+MERGED from [androidx.navigation:navigation-common:2.2.2] C:\Users\SASHA\.gradle\caches\transforms-3\b187db66c3da7c3da86e30c6a771d607\transformed\navigation-common-2.2.2\AndroidManifest.xml:17:1-24:12
+MERGED from [androidx.core:core:1.1.0] C:\Users\SASHA\.gradle\caches\transforms-3\0d1be357180595c9fada004a40a95f33\transformed\core-1.1.0\AndroidManifest.xml:17:1-26:12
+MERGED from [androidx.cursoradapter:cursoradapter:1.0.0] C:\Users\SASHA\.gradle\caches\transforms-3\2365384ad980976d11b4bd9d48d00571\transformed\cursoradapter-1.0.0\AndroidManifest.xml:17:1-22:12
+MERGED from [androidx.lifecycle:lifecycle-process:2.2.0] C:\Users\SASHA\.gradle\caches\transforms-3\93cdecdf35e0ebb0a6747a982095a512\transformed\jetified-lifecycle-process-2.2.0\AndroidManifest.xml:17:1-32:12
+MERGED from [androidx.lifecycle:lifecycle-service:2.2.0] C:\Users\SASHA\.gradle\caches\transforms-3\fec7b5094424e25e39c91a00aed3d59c\transformed\jetified-lifecycle-service-2.2.0\AndroidManifest.xml:17:1-24:12
+MERGED from [androidx.lifecycle:lifecycle-runtime:2.2.0] C:\Users\SASHA\.gradle\caches\transforms-3\6267c6992e2233c007652c3911cd20a6\transformed\lifecycle-runtime-2.2.0\AndroidManifest.xml:17:1-24:12
+MERGED from [androidx.lifecycle:lifecycle-viewmodel:2.3.0-alpha03] C:\Users\SASHA\.gradle\caches\transforms-3\bc21971497a411e32e7e5fc4d6910fb5\transformed\lifecycle-viewmodel-2.3.0-alpha03\AndroidManifest.xml:17:1-24:12
+MERGED from [androidx.savedstate:savedstate:1.0.0] C:\Users\SASHA\.gradle\caches\transforms-3\cfee952266597011e350226a145c4ff0\transformed\jetified-savedstate-1.0.0\AndroidManifest.xml:17:1-24:12
+MERGED from [androidx.interpolator:interpolator:1.0.0] C:\Users\SASHA\.gradle\caches\transforms-3\fe726d578f90e61f945e51ad06a99ee0\transformed\interpolator-1.0.0\AndroidManifest.xml:17:1-22:12
+MERGED from [androidx.cardview:cardview:1.0.0] C:\Users\SASHA\.gradle\caches\transforms-3\1f624a3ec658e1a90eb17b72d8f4e5aa\transformed\cardview-1.0.0\AndroidManifest.xml:17:1-22:12
+MERGED from [androidx.lifecycle:lifecycle-livedata:2.2.0] C:\Users\SASHA\.gradle\caches\transforms-3\1cc85102e7151d173892b0265fd52a81\transformed\lifecycle-livedata-2.2.0\AndroidManifest.xml:17:1-24:12
+MERGED from [androidx.lifecycle:lifecycle-livedata-core:2.3.0-alpha03] C:\Users\SASHA\.gradle\caches\transforms-3\33491e75b57130c6e1484c4648eb0947\transformed\lifecycle-livedata-core-2.3.0-alpha03\AndroidManifest.xml:17:1-24:12
+MERGED from [androidx.arch.core:core-runtime:2.2.0] C:\Users\SASHA\.gradle\caches\transforms-3\63166f2e06e790b45e44a8c52ec5b6f3\transformed\core-runtime-2.2.0\AndroidManifest.xml:17:1-22:12
+MERGED from [androidx.sqlite:sqlite-framework:2.4.0] C:\Users\SASHA\.gradle\caches\transforms-3\791bf309910eed88e1d37b2d81c3c311\transformed\sqlite-framework-2.4.0\AndroidManifest.xml:17:1-22:12
+MERGED from [androidx.sqlite:sqlite:2.4.0] C:\Users\SASHA\.gradle\caches\transforms-3\2ea24be48742d1db5c469c8abb5c16c7\transformed\sqlite-2.4.0\AndroidManifest.xml:17:1-22:12
+MERGED from [androidx.versionedparcelable:versionedparcelable:1.1.0] C:\Users\SASHA\.gradle\caches\transforms-3\7a1ff5a23d45e8270cb10429ea4d29f7\transformed\versionedparcelable-1.1.0\AndroidManifest.xml:17:1-27:12
+MERGED from [androidx.documentfile:documentfile:1.0.0] C:\Users\SASHA\.gradle\caches\transforms-3\dc95db927df936e003ea23f2b843af5c\transformed\documentfile-1.0.0\AndroidManifest.xml:17:1-22:12
+MERGED from [androidx.localbroadcastmanager:localbroadcastmanager:1.0.0] C:\Users\SASHA\.gradle\caches\transforms-3\4a128805ae54552b7183634231e39ff5\transformed\localbroadcastmanager-1.0.0\AndroidManifest.xml:17:1-22:12
+MERGED from [androidx.print:print:1.0.0] C:\Users\SASHA\.gradle\caches\transforms-3\ae4109ec1e873f2074e4c3a60211a759\transformed\print-1.0.0\AndroidManifest.xml:17:1-22:12
+MERGED from [androidx.annotation:annotation-experimental:1.1.0-rc01] C:\Users\SASHA\.gradle\caches\transforms-3\a8e41261f8e48f5f7c74b9192cc5ff07\transformed\jetified-annotation-experimental-1.1.0-rc01\AndroidManifest.xml:17:1-24:12
+INJECTED from C:\Users\SASHA\Desktop\LampWiz\app\src\main\AndroidManifest.xml:2:1-56:12
+INJECTED from C:\Users\SASHA\Desktop\LampWiz\app\src\main\AndroidManifest.xml:2:1-56:12
+INJECTED from C:\Users\SASHA\Desktop\LampWiz\app\src\main\AndroidManifest.xml:2:1-56:12
+	package
+		ADDED from C:\Users\SASHA\Desktop\LampWiz\app\src\main\AndroidManifest.xml:4:5-32
+		INJECTED from C:\Users\SASHA\Desktop\LampWiz\app\src\main\AndroidManifest.xml
+		INJECTED from C:\Users\SASHA\Desktop\LampWiz\app\src\main\AndroidManifest.xml
+	android:versionName
+		INJECTED from C:\Users\SASHA\Desktop\LampWiz\app\src\main\AndroidManifest.xml
+		ADDED from C:\Users\SASHA\Desktop\LampWiz\app\src\main\AndroidManifest.xml:2:1-56:12
+		INJECTED from C:\Users\SASHA\Desktop\LampWiz\app\src\main\AndroidManifest.xml
+	android:versionCode
+		INJECTED from C:\Users\SASHA\Desktop\LampWiz\app\src\main\AndroidManifest.xml
+		ADDED from C:\Users\SASHA\Desktop\LampWiz\app\src\main\AndroidManifest.xml:2:1-56:12
+		INJECTED from C:\Users\SASHA\Desktop\LampWiz\app\src\main\AndroidManifest.xml
+	xmlns:android
+		ADDED from C:\Users\SASHA\Desktop\LampWiz\app\src\main\AndroidManifest.xml:3:5-63
+uses-permission#android.permission.BLUETOOTH
+ADDED from C:\Users\SASHA\Desktop\LampWiz\app\src\main\AndroidManifest.xml:6:5-68
+	android:name
+		ADDED from C:\Users\SASHA\Desktop\LampWiz\app\src\main\AndroidManifest.xml:6:22-65
+uses-permission#android.permission.BLUETOOTH_ADMIN
+ADDED from C:\Users\SASHA\Desktop\LampWiz\app\src\main\AndroidManifest.xml:7:5-74
+	android:name
+		ADDED from C:\Users\SASHA\Desktop\LampWiz\app\src\main\AndroidManifest.xml:7:22-71
+uses-permission#android.permission.ACCESS_FINE_LOCATION
+ADDED from C:\Users\SASHA\Desktop\LampWiz\app\src\main\AndroidManifest.xml:8:5-79
+	android:name
+		ADDED from C:\Users\SASHA\Desktop\LampWiz\app\src\main\AndroidManifest.xml:8:22-76
+uses-permission#android.permission.ACCESS_COARSE_LOCATION
+ADDED from C:\Users\SASHA\Desktop\LampWiz\app\src\main\AndroidManifest.xml:9:5-81
+	android:name
+		ADDED from C:\Users\SASHA\Desktop\LampWiz\app\src\main\AndroidManifest.xml:9:22-78
+uses-permission#android.permission.FOREGROUND_SERVICE
+ADDED from C:\Users\SASHA\Desktop\LampWiz\app\src\main\AndroidManifest.xml:10:5-77
+	android:name
+		ADDED from C:\Users\SASHA\Desktop\LampWiz\app\src\main\AndroidManifest.xml:10:22-74
+uses-feature#android.hardware.bluetooth_le
+ADDED from C:\Users\SASHA\Desktop\LampWiz\app\src\main\AndroidManifest.xml:12:5-14:35
+	android:required
+		ADDED from C:\Users\SASHA\Desktop\LampWiz\app\src\main\AndroidManifest.xml:14:9-32
+	android:name
+		ADDED from C:\Users\SASHA\Desktop\LampWiz\app\src\main\AndroidManifest.xml:13:9-53
+application
+ADDED from C:\Users\SASHA\Desktop\LampWiz\app\src\main\AndroidManifest.xml:16:5-54:19
+MERGED from [com.github.QuadFlask:colorpicker:0.0.15] C:\Users\SASHA\.gradle\caches\transforms-3\cf5527f28aab1ef6745d30508ffbff97\transformed\jetified-colorpicker-0.0.15\AndroidManifest.xml:11:5-20
+MERGED from [com.github.QuadFlask:colorpicker:0.0.15] C:\Users\SASHA\.gradle\caches\transforms-3\cf5527f28aab1ef6745d30508ffbff97\transformed\jetified-colorpicker-0.0.15\AndroidManifest.xml:11:5-20
+MERGED from [com.google.android.material:material:1.1.0] C:\Users\SASHA\.gradle\caches\transforms-3\f5826943bf6beef5e6982b6895a84815\transformed\material-1.1.0\AndroidManifest.xml:22:5-20
+MERGED from [com.google.android.material:material:1.1.0] C:\Users\SASHA\.gradle\caches\transforms-3\f5826943bf6beef5e6982b6895a84815\transformed\material-1.1.0\AndroidManifest.xml:22:5-20
+MERGED from [androidx.constraintlayout:constraintlayout:1.1.3] C:\Users\SASHA\.gradle\caches\transforms-3\13e16167675b0703369ad876dcfd0cfb\transformed\constraintlayout-1.1.3\AndroidManifest.xml:9:5-20
+MERGED from [androidx.constraintlayout:constraintlayout:1.1.3] C:\Users\SASHA\.gradle\caches\transforms-3\13e16167675b0703369ad876dcfd0cfb\transformed\constraintlayout-1.1.3\AndroidManifest.xml:9:5-20
+MERGED from [androidx.lifecycle:lifecycle-extensions:2.2.0] C:\Users\SASHA\.gradle\caches\transforms-3\5746758fe4fe6d736fbc196377e5d59a\transformed\lifecycle-extensions-2.2.0\AndroidManifest.xml:24:5-25:19
+MERGED from [androidx.lifecycle:lifecycle-extensions:2.2.0] C:\Users\SASHA\.gradle\caches\transforms-3\5746758fe4fe6d736fbc196377e5d59a\transformed\lifecycle-extensions-2.2.0\AndroidManifest.xml:24:5-25:19
+MERGED from [androidx.room:room-runtime:2.6.0] C:\Users\SASHA\.gradle\caches\transforms-3\d03bcee5c420869636350ca3dfbd123b\transformed\room-runtime-2.6.0\AndroidManifest.xml:23:5-29:19
+MERGED from [androidx.room:room-runtime:2.6.0] C:\Users\SASHA\.gradle\caches\transforms-3\d03bcee5c420869636350ca3dfbd123b\transformed\room-runtime-2.6.0\AndroidManifest.xml:23:5-29:19
+MERGED from [androidx.core:core:1.1.0] C:\Users\SASHA\.gradle\caches\transforms-3\0d1be357180595c9fada004a40a95f33\transformed\core-1.1.0\AndroidManifest.xml:24:5-89
+MERGED from [androidx.core:core:1.1.0] C:\Users\SASHA\.gradle\caches\transforms-3\0d1be357180595c9fada004a40a95f33\transformed\core-1.1.0\AndroidManifest.xml:24:5-89
+MERGED from [androidx.lifecycle:lifecycle-process:2.2.0] C:\Users\SASHA\.gradle\caches\transforms-3\93cdecdf35e0ebb0a6747a982095a512\transformed\jetified-lifecycle-process-2.2.0\AndroidManifest.xml:24:5-30:19
+MERGED from [androidx.lifecycle:lifecycle-process:2.2.0] C:\Users\SASHA\.gradle\caches\transforms-3\93cdecdf35e0ebb0a6747a982095a512\transformed\jetified-lifecycle-process-2.2.0\AndroidManifest.xml:24:5-30:19
+MERGED from [androidx.versionedparcelable:versionedparcelable:1.1.0] C:\Users\SASHA\.gradle\caches\transforms-3\7a1ff5a23d45e8270cb10429ea4d29f7\transformed\versionedparcelable-1.1.0\AndroidManifest.xml:24:5-25:19
+MERGED from [androidx.versionedparcelable:versionedparcelable:1.1.0] C:\Users\SASHA\.gradle\caches\transforms-3\7a1ff5a23d45e8270cb10429ea4d29f7\transformed\versionedparcelable-1.1.0\AndroidManifest.xml:24:5-25:19
+	android:appComponentFactory
+		ADDED from [androidx.core:core:1.1.0] C:\Users\SASHA\.gradle\caches\transforms-3\0d1be357180595c9fada004a40a95f33\transformed\core-1.1.0\AndroidManifest.xml:24:18-86
+	android:supportsRtl
+		ADDED from C:\Users\SASHA\Desktop\LampWiz\app\src\main\AndroidManifest.xml:22:9-35
+	android:label
+		ADDED from C:\Users\SASHA\Desktop\LampWiz\app\src\main\AndroidManifest.xml:20:9-41
+	android:fullBackupContent
+		ADDED from C:\Users\SASHA\Desktop\LampWiz\app\src\main\AndroidManifest.xml:24:9-59
+	android:roundIcon
+		ADDED from C:\Users\SASHA\Desktop\LampWiz\app\src\main\AndroidManifest.xml:21:9-45
+	android:icon
+		ADDED from C:\Users\SASHA\Desktop\LampWiz\app\src\main\AndroidManifest.xml:19:9-40
+	android:allowBackup
+		ADDED from C:\Users\SASHA\Desktop\LampWiz\app\src\main\AndroidManifest.xml:18:9-35
+	android:theme
+		ADDED from C:\Users\SASHA\Desktop\LampWiz\app\src\main\AndroidManifest.xml:23:9-40
+	android:name
+		ADDED from C:\Users\SASHA\Desktop\LampWiz\app\src\main\AndroidManifest.xml:17:9-49
+service#com.sasha.lampwiz.bluetooth.Connection
+ADDED from C:\Users\SASHA\Desktop\LampWiz\app\src\main\AndroidManifest.xml:26:9-31:64
+	android:enabled
+		ADDED from C:\Users\SASHA\Desktop\LampWiz\app\src\main\AndroidManifest.xml:29:13-35
+	android:label
+		ADDED from C:\Users\SASHA\Desktop\LampWiz\app\src\main\AndroidManifest.xml:31:13-61
+	android:exported
+		ADDED from C:\Users\SASHA\Desktop\LampWiz\app\src\main\AndroidManifest.xml:30:13-37
+	android:description
+		ADDED from C:\Users\SASHA\Desktop\LampWiz\app\src\main\AndroidManifest.xml:28:13-73
+	android:name
+		ADDED from C:\Users\SASHA\Desktop\LampWiz\app\src\main\AndroidManifest.xml:27:13-66
+activity#com.sasha.lampwiz.activity.scan.ScanActivity
+ADDED from C:\Users\SASHA\Desktop\LampWiz\app\src\main\AndroidManifest.xml:33:9-41:20
+	android:parentActivityName
+		ADDED from C:\Users\SASHA\Desktop\LampWiz\app\src\main\AndroidManifest.xml:36:13-86
+	android:label
+		ADDED from C:\Users\SASHA\Desktop\LampWiz\app\src\main\AndroidManifest.xml:35:13-56
+	android:theme
+		ADDED from C:\Users\SASHA\Desktop\LampWiz\app\src\main\AndroidManifest.xml:37:13-56
+	android:name
+		ADDED from C:\Users\SASHA\Desktop\LampWiz\app\src\main\AndroidManifest.xml:34:13-72
+meta-data#android.support.PARENT_ACTIVITY
+ADDED from C:\Users\SASHA\Desktop\LampWiz\app\src\main\AndroidManifest.xml:38:13-40:80
+	android:value
+		ADDED from C:\Users\SASHA\Desktop\LampWiz\app\src\main\AndroidManifest.xml:40:17-77
+	android:name
+		ADDED from C:\Users\SASHA\Desktop\LampWiz\app\src\main\AndroidManifest.xml:39:17-63
+activity#com.sasha.lampwiz.activity.main.MainActivity
+ADDED from C:\Users\SASHA\Desktop\LampWiz\app\src\main\AndroidManifest.xml:43:9-52:20
+	android:label
+		ADDED from C:\Users\SASHA\Desktop\LampWiz\app\src\main\AndroidManifest.xml:45:13-56
+	android:launchMode
+		ADDED from C:\Users\SASHA\Desktop\LampWiz\app\src\main\AndroidManifest.xml:46:13-43
+	android:theme
+		ADDED from C:\Users\SASHA\Desktop\LampWiz\app\src\main\AndroidManifest.xml:47:13-56
+	android:name
+		ADDED from C:\Users\SASHA\Desktop\LampWiz\app\src\main\AndroidManifest.xml:44:13-72
+intent-filter#action:name:android.intent.action.MAIN+category:name:android.intent.category.LAUNCHER
+ADDED from C:\Users\SASHA\Desktop\LampWiz\app\src\main\AndroidManifest.xml:48:13-51:29
+action#android.intent.action.MAIN
+ADDED from C:\Users\SASHA\Desktop\LampWiz\app\src\main\AndroidManifest.xml:49:17-69
+	android:name
+		ADDED from C:\Users\SASHA\Desktop\LampWiz\app\src\main\AndroidManifest.xml:49:25-66
+category#android.intent.category.LAUNCHER
+ADDED from C:\Users\SASHA\Desktop\LampWiz\app\src\main\AndroidManifest.xml:50:17-77
+	android:name
+		ADDED from C:\Users\SASHA\Desktop\LampWiz\app\src\main\AndroidManifest.xml:50:27-74
+uses-sdk
+INJECTED from C:\Users\SASHA\Desktop\LampWiz\app\src\main\AndroidManifest.xml reason: use-sdk injection requested
+INJECTED from C:\Users\SASHA\Desktop\LampWiz\app\src\main\AndroidManifest.xml
+INJECTED from C:\Users\SASHA\Desktop\LampWiz\app\src\main\AndroidManifest.xml
+MERGED from [androidx.preference:preference:1.1.1] C:\Users\SASHA\.gradle\caches\transforms-3\36a10ebf6728e243a2dfce933adf8f4a\transformed\preference-1.1.1\AndroidManifest.xml:20:5-22:41
+MERGED from [androidx.preference:preference:1.1.1] C:\Users\SASHA\.gradle\caches\transforms-3\36a10ebf6728e243a2dfce933adf8f4a\transformed\preference-1.1.1\AndroidManifest.xml:20:5-22:41
+MERGED from [com.github.QuadFlask:colorpicker:0.0.15] C:\Users\SASHA\.gradle\caches\transforms-3\cf5527f28aab1ef6745d30508ffbff97\transformed\jetified-colorpicker-0.0.15\AndroidManifest.xml:7:5-9:41
+MERGED from [com.github.QuadFlask:colorpicker:0.0.15] C:\Users\SASHA\.gradle\caches\transforms-3\cf5527f28aab1ef6745d30508ffbff97\transformed\jetified-colorpicker-0.0.15\AndroidManifest.xml:7:5-9:41
+MERGED from [androidx.navigation:navigation-ui:2.2.2] C:\Users\SASHA\.gradle\caches\transforms-3\1b36bf8ab16e2ab77e8289a7d49ce3bb\transformed\navigation-ui-2.2.2\AndroidManifest.xml:20:5-22:41
+MERGED from [androidx.navigation:navigation-ui:2.2.2] C:\Users\SASHA\.gradle\caches\transforms-3\1b36bf8ab16e2ab77e8289a7d49ce3bb\transformed\navigation-ui-2.2.2\AndroidManifest.xml:20:5-22:41
+MERGED from [com.google.android.material:material:1.1.0] C:\Users\SASHA\.gradle\caches\transforms-3\f5826943bf6beef5e6982b6895a84815\transformed\material-1.1.0\AndroidManifest.xml:20:5-44
+MERGED from [com.google.android.material:material:1.1.0] C:\Users\SASHA\.gradle\caches\transforms-3\f5826943bf6beef5e6982b6895a84815\transformed\material-1.1.0\AndroidManifest.xml:20:5-44
+MERGED from [androidx.appcompat:appcompat:1.1.0] C:\Users\SASHA\.gradle\caches\transforms-3\7208d67472441715d1167eab9181d58e\transformed\appcompat-1.1.0\AndroidManifest.xml:20:5-22:41
+MERGED from [androidx.appcompat:appcompat:1.1.0] C:\Users\SASHA\.gradle\caches\transforms-3\7208d67472441715d1167eab9181d58e\transformed\appcompat-1.1.0\AndroidManifest.xml:20:5-22:41
+MERGED from [androidx.constraintlayout:constraintlayout:1.1.3] C:\Users\SASHA\.gradle\caches\transforms-3\13e16167675b0703369ad876dcfd0cfb\transformed\constraintlayout-1.1.3\AndroidManifest.xml:5:5-7:41
+MERGED from [androidx.constraintlayout:constraintlayout:1.1.3] C:\Users\SASHA\.gradle\caches\transforms-3\13e16167675b0703369ad876dcfd0cfb\transformed\constraintlayout-1.1.3\AndroidManifest.xml:5:5-7:41
+MERGED from [androidx.legacy:legacy-support-v4:1.0.0] C:\Users\SASHA\.gradle\caches\transforms-3\44d66019629001601723e3e8e6792438\transformed\legacy-support-v4-1.0.0\AndroidManifest.xml:20:5-44
+MERGED from [androidx.legacy:legacy-support-v4:1.0.0] C:\Users\SASHA\.gradle\caches\transforms-3\44d66019629001601723e3e8e6792438\transformed\legacy-support-v4-1.0.0\AndroidManifest.xml:20:5-44
+MERGED from [androidx.lifecycle:lifecycle-extensions:2.2.0] C:\Users\SASHA\.gradle\caches\transforms-3\5746758fe4fe6d736fbc196377e5d59a\transformed\lifecycle-extensions-2.2.0\AndroidManifest.xml:20:5-22:41
+MERGED from [androidx.lifecycle:lifecycle-extensions:2.2.0] C:\Users\SASHA\.gradle\caches\transforms-3\5746758fe4fe6d736fbc196377e5d59a\transformed\lifecycle-extensions-2.2.0\AndroidManifest.xml:20:5-22:41
+MERGED from [androidx.navigation:navigation-fragment:2.2.2] C:\Users\SASHA\.gradle\caches\transforms-3\faa4c14e85a22c6dd4117e5f2e1f104a\transformed\navigation-fragment-2.2.2\AndroidManifest.xml:20:5-22:41
+MERGED from [androidx.navigation:navigation-fragment:2.2.2] C:\Users\SASHA\.gradle\caches\transforms-3\faa4c14e85a22c6dd4117e5f2e1f104a\transformed\navigation-fragment-2.2.2\AndroidManifest.xml:20:5-22:41
+MERGED from [androidx.viewpager2:viewpager2:1.0.0] C:\Users\SASHA\.gradle\caches\transforms-3\0ee68bfbd682d7e290626937651372ad\transformed\jetified-viewpager2-1.0.0\AndroidManifest.xml:20:5-22:41
+MERGED from [androidx.viewpager2:viewpager2:1.0.0] C:\Users\SASHA\.gradle\caches\transforms-3\0ee68bfbd682d7e290626937651372ad\transformed\jetified-viewpager2-1.0.0\AndroidManifest.xml:20:5-22:41
+MERGED from [androidx.fragment:fragment:1.2.4] C:\Users\SASHA\.gradle\caches\transforms-3\b691e3e3988a28fdc6fd58ff79fe9aa1\transformed\fragment-1.2.4\AndroidManifest.xml:20:5-22:41
+MERGED from [androidx.fragment:fragment:1.2.4] C:\Users\SASHA\.gradle\caches\transforms-3\b691e3e3988a28fdc6fd58ff79fe9aa1\transformed\fragment-1.2.4\AndroidManifest.xml:20:5-22:41
+MERGED from [androidx.navigation:navigation-runtime:2.2.2] C:\Users\SASHA\.gradle\caches\transforms-3\20d06e5e27951af8ebb8efdf258f5f8a\transformed\navigation-runtime-2.2.2\AndroidManifest.xml:20:5-22:41
+MERGED from [androidx.navigation:navigation-runtime:2.2.2] C:\Users\SASHA\.gradle\caches\transforms-3\20d06e5e27951af8ebb8efdf258f5f8a\transformed\navigation-runtime-2.2.2\AndroidManifest.xml:20:5-22:41
+MERGED from [androidx.activity:activity:1.1.0] C:\Users\SASHA\.gradle\caches\transforms-3\859180bb677d07452d44209a6e122258\transformed\jetified-activity-1.1.0\AndroidManifest.xml:20:5-22:41
+MERGED from [androidx.activity:activity:1.1.0] C:\Users\SASHA\.gradle\caches\transforms-3\859180bb677d07452d44209a6e122258\transformed\jetified-activity-1.1.0\AndroidManifest.xml:20:5-22:41
+MERGED from [androidx.lifecycle:lifecycle-viewmodel-savedstate:2.3.0-alpha03] C:\Users\SASHA\.gradle\caches\transforms-3\bb5a79e687c071018d07476c8f0cd2b8\transformed\jetified-lifecycle-viewmodel-savedstate-2.3.0-alpha03\AndroidManifest.xml:20:5-22:41
+MERGED from [androidx.lifecycle:lifecycle-viewmodel-savedstate:2.3.0-alpha03] C:\Users\SASHA\.gradle\caches\transforms-3\bb5a79e687c071018d07476c8f0cd2b8\transformed\jetified-lifecycle-viewmodel-savedstate-2.3.0-alpha03\AndroidManifest.xml:20:5-22:41
+MERGED from [androidx.recyclerview:recyclerview:1.1.0] C:\Users\SASHA\.gradle\caches\transforms-3\722cfa06d51a32340f337ac9798393bf\transformed\recyclerview-1.1.0\AndroidManifest.xml:20:5-22:41
+MERGED from [androidx.recyclerview:recyclerview:1.1.0] C:\Users\SASHA\.gradle\caches\transforms-3\722cfa06d51a32340f337ac9798393bf\transformed\recyclerview-1.1.0\AndroidManifest.xml:20:5-22:41
+MERGED from [androidx.legacy:legacy-support-core-ui:1.0.0] C:\Users\SASHA\.gradle\caches\transforms-3\5eff1425e4617f572a315b3a04b185a4\transformed\legacy-support-core-ui-1.0.0\AndroidManifest.xml:20:5-44
+MERGED from [androidx.legacy:legacy-support-core-ui:1.0.0] C:\Users\SASHA\.gradle\caches\transforms-3\5eff1425e4617f572a315b3a04b185a4\transformed\legacy-support-core-ui-1.0.0\AndroidManifest.xml:20:5-44
+MERGED from [androidx.swiperefreshlayout:swiperefreshlayout:1.0.0] C:\Users\SASHA\.gradle\caches\transforms-3\788b2866ce1062b2ae316790421045ad\transformed\swiperefreshlayout-1.0.0\AndroidManifest.xml:20:5-44
+MERGED from [androidx.swiperefreshlayout:swiperefreshlayout:1.0.0] C:\Users\SASHA\.gradle\caches\transforms-3\788b2866ce1062b2ae316790421045ad\transformed\swiperefreshlayout-1.0.0\AndroidManifest.xml:20:5-44
+MERGED from [androidx.room:room-rxjava3:2.6.0] C:\Users\SASHA\.gradle\caches\transforms-3\1424b33f19cab0844788b3773dbd46a6\transformed\jetified-room-rxjava3-2.6.0\AndroidManifest.xml:20:5-44
+MERGED from [androidx.room:room-rxjava3:2.6.0] C:\Users\SASHA\.gradle\caches\transforms-3\1424b33f19cab0844788b3773dbd46a6\transformed\jetified-room-rxjava3-2.6.0\AndroidManifest.xml:20:5-44
+MERGED from [androidx.room:room-rxjava2:2.6.0] C:\Users\SASHA\.gradle\caches\transforms-3\8def285fd8c62d725118732ad8d9e7e2\transformed\room-rxjava2-2.6.0\AndroidManifest.xml:20:5-44
+MERGED from [androidx.room:room-rxjava2:2.6.0] C:\Users\SASHA\.gradle\caches\transforms-3\8def285fd8c62d725118732ad8d9e7e2\transformed\room-rxjava2-2.6.0\AndroidManifest.xml:20:5-44
+MERGED from [androidx.room:room-runtime:2.6.0] C:\Users\SASHA\.gradle\caches\transforms-3\d03bcee5c420869636350ca3dfbd123b\transformed\room-runtime-2.6.0\AndroidManifest.xml:21:5-44
+MERGED from [androidx.room:room-runtime:2.6.0] C:\Users\SASHA\.gradle\caches\transforms-3\d03bcee5c420869636350ca3dfbd123b\transformed\room-runtime-2.6.0\AndroidManifest.xml:21:5-44
+MERGED from [io.reactivex.rxjava2:rxandroid:2.1.1] C:\Users\SASHA\.gradle\caches\transforms-3\5d94229c92a719f7edbd15af35d2edc6\transformed\jetified-rxandroid-2.1.1\AndroidManifest.xml:18:5-43
+MERGED from [io.reactivex.rxjava2:rxandroid:2.1.1] C:\Users\SASHA\.gradle\caches\transforms-3\5d94229c92a719f7edbd15af35d2edc6\transformed\jetified-rxandroid-2.1.1\AndroidManifest.xml:18:5-43
+MERGED from [androidx.appcompat:appcompat-resources:1.1.0] C:\Users\SASHA\.gradle\caches\transforms-3\b204d6486c6c201251274434766486bd\transformed\jetified-appcompat-resources-1.1.0\AndroidManifest.xml:20:5-22:41
+MERGED from [androidx.appcompat:appcompat-resources:1.1.0] C:\Users\SASHA\.gradle\caches\transforms-3\b204d6486c6c201251274434766486bd\transformed\jetified-appcompat-resources-1.1.0\AndroidManifest.xml:20:5-22:41
+MERGED from [androidx.drawerlayout:drawerlayout:1.0.0] C:\Users\SASHA\.gradle\caches\transforms-3\f967ef6252e4ec79b8a489b7b97a4a74\transformed\drawerlayout-1.0.0\AndroidManifest.xml:20:5-44
+MERGED from [androidx.drawerlayout:drawerlayout:1.0.0] C:\Users\SASHA\.gradle\caches\transforms-3\f967ef6252e4ec79b8a489b7b97a4a74\transformed\drawerlayout-1.0.0\AndroidManifest.xml:20:5-44
+MERGED from [androidx.media:media:1.0.0] C:\Users\SASHA\.gradle\caches\transforms-3\abedd8388bdbd55803e370bace33339f\transformed\media-1.0.0\AndroidManifest.xml:20:5-44
+MERGED from [androidx.media:media:1.0.0] C:\Users\SASHA\.gradle\caches\transforms-3\abedd8388bdbd55803e370bace33339f\transformed\media-1.0.0\AndroidManifest.xml:20:5-44
+MERGED from [androidx.legacy:legacy-support-core-utils:1.0.0] C:\Users\SASHA\.gradle\caches\transforms-3\bf2a6d46c92d2b1b015ce44f75d834ab\transformed\legacy-support-core-utils-1.0.0\AndroidManifest.xml:20:5-44
+MERGED from [androidx.legacy:legacy-support-core-utils:1.0.0] C:\Users\SASHA\.gradle\caches\transforms-3\bf2a6d46c92d2b1b015ce44f75d834ab\transformed\legacy-support-core-utils-1.0.0\AndroidManifest.xml:20:5-44
+MERGED from [androidx.coordinatorlayout:coordinatorlayout:1.1.0] C:\Users\SASHA\.gradle\caches\transforms-3\8255cf8f73e0ec2d884b3aa8102e6cd4\transformed\coordinatorlayout-1.1.0\AndroidManifest.xml:20:5-22:41
+MERGED from [androidx.coordinatorlayout:coordinatorlayout:1.1.0] C:\Users\SASHA\.gradle\caches\transforms-3\8255cf8f73e0ec2d884b3aa8102e6cd4\transformed\coordinatorlayout-1.1.0\AndroidManifest.xml:20:5-22:41
+MERGED from [androidx.viewpager:viewpager:1.0.0] C:\Users\SASHA\.gradle\caches\transforms-3\064f6efcf72e45025c96c41bb0313fb3\transformed\viewpager-1.0.0\AndroidManifest.xml:20:5-44
+MERGED from [androidx.viewpager:viewpager:1.0.0] C:\Users\SASHA\.gradle\caches\transforms-3\064f6efcf72e45025c96c41bb0313fb3\transformed\viewpager-1.0.0\AndroidManifest.xml:20:5-44
+MERGED from [androidx.slidingpanelayout:slidingpanelayout:1.0.0] C:\Users\SASHA\.gradle\caches\transforms-3\bb581f0f45aa35f890c6008351162320\transformed\slidingpanelayout-1.0.0\AndroidManifest.xml:20:5-44
+MERGED from [androidx.slidingpanelayout:slidingpanelayout:1.0.0] C:\Users\SASHA\.gradle\caches\transforms-3\bb581f0f45aa35f890c6008351162320\transformed\slidingpanelayout-1.0.0\AndroidManifest.xml:20:5-44
+MERGED from [androidx.customview:customview:1.0.0] C:\Users\SASHA\.gradle\caches\transforms-3\62c5e7261b28a421717026579decefb0\transformed\customview-1.0.0\AndroidManifest.xml:20:5-44
+MERGED from [androidx.customview:customview:1.0.0] C:\Users\SASHA\.gradle\caches\transforms-3\62c5e7261b28a421717026579decefb0\transformed\customview-1.0.0\AndroidManifest.xml:20:5-44
+MERGED from [androidx.transition:transition:1.2.0] C:\Users\SASHA\.gradle\caches\transforms-3\cf7ed2c7db25c1ed83dad3026c9a2688\transformed\transition-1.2.0\AndroidManifest.xml:20:5-22:41
+MERGED from [androidx.transition:transition:1.2.0] C:\Users\SASHA\.gradle\caches\transforms-3\cf7ed2c7db25c1ed83dad3026c9a2688\transformed\transition-1.2.0\AndroidManifest.xml:20:5-22:41
+MERGED from [androidx.vectordrawable:vectordrawable-animated:1.1.0] C:\Users\SASHA\.gradle\caches\transforms-3\5d6dbb7a2526cb46a310f1fa772a8328\transformed\vectordrawable-animated-1.1.0\AndroidManifest.xml:20:5-22:41
+MERGED from [androidx.vectordrawable:vectordrawable-animated:1.1.0] C:\Users\SASHA\.gradle\caches\transforms-3\5d6dbb7a2526cb46a310f1fa772a8328\transformed\vectordrawable-animated-1.1.0\AndroidManifest.xml:20:5-22:41
+MERGED from [androidx.vectordrawable:vectordrawable:1.1.0] C:\Users\SASHA\.gradle\caches\transforms-3\c17573ade799759c56baf884a28f8de6\transformed\vectordrawable-1.1.0\AndroidManifest.xml:20:5-22:41
+MERGED from [androidx.vectordrawable:vectordrawable:1.1.0] C:\Users\SASHA\.gradle\caches\transforms-3\c17573ade799759c56baf884a28f8de6\transformed\vectordrawable-1.1.0\AndroidManifest.xml:20:5-22:41
+MERGED from [androidx.loader:loader:1.0.0] C:\Users\SASHA\.gradle\caches\transforms-3\f4e7914e58ba093567760f9d22f3626d\transformed\loader-1.0.0\AndroidManifest.xml:20:5-44
+MERGED from [androidx.loader:loader:1.0.0] C:\Users\SASHA\.gradle\caches\transforms-3\f4e7914e58ba093567760f9d22f3626d\transformed\loader-1.0.0\AndroidManifest.xml:20:5-44
+MERGED from [androidx.asynclayoutinflater:asynclayoutinflater:1.0.0] C:\Users\SASHA\.gradle\caches\transforms-3\dc51215a0ae0eec1cc8d2679f7af5fd0\transformed\asynclayoutinflater-1.0.0\AndroidManifest.xml:20:5-44
+MERGED from [androidx.asynclayoutinflater:asynclayoutinflater:1.0.0] C:\Users\SASHA\.gradle\caches\transforms-3\dc51215a0ae0eec1cc8d2679f7af5fd0\transformed\asynclayoutinflater-1.0.0\AndroidManifest.xml:20:5-44
+MERGED from [androidx.navigation:navigation-common:2.2.2] C:\Users\SASHA\.gradle\caches\transforms-3\b187db66c3da7c3da86e30c6a771d607\transformed\navigation-common-2.2.2\AndroidManifest.xml:20:5-22:41
+MERGED from [androidx.navigation:navigation-common:2.2.2] C:\Users\SASHA\.gradle\caches\transforms-3\b187db66c3da7c3da86e30c6a771d607\transformed\navigation-common-2.2.2\AndroidManifest.xml:20:5-22:41
+MERGED from [androidx.core:core:1.1.0] C:\Users\SASHA\.gradle\caches\transforms-3\0d1be357180595c9fada004a40a95f33\transformed\core-1.1.0\AndroidManifest.xml:20:5-22:41
+MERGED from [androidx.core:core:1.1.0] C:\Users\SASHA\.gradle\caches\transforms-3\0d1be357180595c9fada004a40a95f33\transformed\core-1.1.0\AndroidManifest.xml:20:5-22:41
+MERGED from [androidx.cursoradapter:cursoradapter:1.0.0] C:\Users\SASHA\.gradle\caches\transforms-3\2365384ad980976d11b4bd9d48d00571\transformed\cursoradapter-1.0.0\AndroidManifest.xml:20:5-44
+MERGED from [androidx.cursoradapter:cursoradapter:1.0.0] C:\Users\SASHA\.gradle\caches\transforms-3\2365384ad980976d11b4bd9d48d00571\transformed\cursoradapter-1.0.0\AndroidManifest.xml:20:5-44
+MERGED from [androidx.lifecycle:lifecycle-process:2.2.0] C:\Users\SASHA\.gradle\caches\transforms-3\93cdecdf35e0ebb0a6747a982095a512\transformed\jetified-lifecycle-process-2.2.0\AndroidManifest.xml:20:5-22:41
+MERGED from [androidx.lifecycle:lifecycle-process:2.2.0] C:\Users\SASHA\.gradle\caches\transforms-3\93cdecdf35e0ebb0a6747a982095a512\transformed\jetified-lifecycle-process-2.2.0\AndroidManifest.xml:20:5-22:41
+MERGED from [androidx.lifecycle:lifecycle-service:2.2.0] C:\Users\SASHA\.gradle\caches\transforms-3\fec7b5094424e25e39c91a00aed3d59c\transformed\jetified-lifecycle-service-2.2.0\AndroidManifest.xml:20:5-22:41
+MERGED from [androidx.lifecycle:lifecycle-service:2.2.0] C:\Users\SASHA\.gradle\caches\transforms-3\fec7b5094424e25e39c91a00aed3d59c\transformed\jetified-lifecycle-service-2.2.0\AndroidManifest.xml:20:5-22:41
+MERGED from [androidx.lifecycle:lifecycle-runtime:2.2.0] C:\Users\SASHA\.gradle\caches\transforms-3\6267c6992e2233c007652c3911cd20a6\transformed\lifecycle-runtime-2.2.0\AndroidManifest.xml:20:5-22:41
+MERGED from [androidx.lifecycle:lifecycle-runtime:2.2.0] C:\Users\SASHA\.gradle\caches\transforms-3\6267c6992e2233c007652c3911cd20a6\transformed\lifecycle-runtime-2.2.0\AndroidManifest.xml:20:5-22:41
+MERGED from [androidx.lifecycle:lifecycle-viewmodel:2.3.0-alpha03] C:\Users\SASHA\.gradle\caches\transforms-3\bc21971497a411e32e7e5fc4d6910fb5\transformed\lifecycle-viewmodel-2.3.0-alpha03\AndroidManifest.xml:20:5-22:41
+MERGED from [androidx.lifecycle:lifecycle-viewmodel:2.3.0-alpha03] C:\Users\SASHA\.gradle\caches\transforms-3\bc21971497a411e32e7e5fc4d6910fb5\transformed\lifecycle-viewmodel-2.3.0-alpha03\AndroidManifest.xml:20:5-22:41
+MERGED from [androidx.savedstate:savedstate:1.0.0] C:\Users\SASHA\.gradle\caches\transforms-3\cfee952266597011e350226a145c4ff0\transformed\jetified-savedstate-1.0.0\AndroidManifest.xml:20:5-22:41
+MERGED from [androidx.savedstate:savedstate:1.0.0] C:\Users\SASHA\.gradle\caches\transforms-3\cfee952266597011e350226a145c4ff0\transformed\jetified-savedstate-1.0.0\AndroidManifest.xml:20:5-22:41
+MERGED from [androidx.interpolator:interpolator:1.0.0] C:\Users\SASHA\.gradle\caches\transforms-3\fe726d578f90e61f945e51ad06a99ee0\transformed\interpolator-1.0.0\AndroidManifest.xml:20:5-44
+MERGED from [androidx.interpolator:interpolator:1.0.0] C:\Users\SASHA\.gradle\caches\transforms-3\fe726d578f90e61f945e51ad06a99ee0\transformed\interpolator-1.0.0\AndroidManifest.xml:20:5-44
+MERGED from [androidx.cardview:cardview:1.0.0] C:\Users\SASHA\.gradle\caches\transforms-3\1f624a3ec658e1a90eb17b72d8f4e5aa\transformed\cardview-1.0.0\AndroidManifest.xml:20:5-44
+MERGED from [androidx.cardview:cardview:1.0.0] C:\Users\SASHA\.gradle\caches\transforms-3\1f624a3ec658e1a90eb17b72d8f4e5aa\transformed\cardview-1.0.0\AndroidManifest.xml:20:5-44
+MERGED from [androidx.lifecycle:lifecycle-livedata:2.2.0] C:\Users\SASHA\.gradle\caches\transforms-3\1cc85102e7151d173892b0265fd52a81\transformed\lifecycle-livedata-2.2.0\AndroidManifest.xml:20:5-22:41
+MERGED from [androidx.lifecycle:lifecycle-livedata:2.2.0] C:\Users\SASHA\.gradle\caches\transforms-3\1cc85102e7151d173892b0265fd52a81\transformed\lifecycle-livedata-2.2.0\AndroidManifest.xml:20:5-22:41
+MERGED from [androidx.lifecycle:lifecycle-livedata-core:2.3.0-alpha03] C:\Users\SASHA\.gradle\caches\transforms-3\33491e75b57130c6e1484c4648eb0947\transformed\lifecycle-livedata-core-2.3.0-alpha03\AndroidManifest.xml:20:5-22:41
+MERGED from [androidx.lifecycle:lifecycle-livedata-core:2.3.0-alpha03] C:\Users\SASHA\.gradle\caches\transforms-3\33491e75b57130c6e1484c4648eb0947\transformed\lifecycle-livedata-core-2.3.0-alpha03\AndroidManifest.xml:20:5-22:41
+MERGED from [androidx.arch.core:core-runtime:2.2.0] C:\Users\SASHA\.gradle\caches\transforms-3\63166f2e06e790b45e44a8c52ec5b6f3\transformed\core-runtime-2.2.0\AndroidManifest.xml:20:5-44
+MERGED from [androidx.arch.core:core-runtime:2.2.0] C:\Users\SASHA\.gradle\caches\transforms-3\63166f2e06e790b45e44a8c52ec5b6f3\transformed\core-runtime-2.2.0\AndroidManifest.xml:20:5-44
+MERGED from [androidx.sqlite:sqlite-framework:2.4.0] C:\Users\SASHA\.gradle\caches\transforms-3\791bf309910eed88e1d37b2d81c3c311\transformed\sqlite-framework-2.4.0\AndroidManifest.xml:20:5-44
+MERGED from [androidx.sqlite:sqlite-framework:2.4.0] C:\Users\SASHA\.gradle\caches\transforms-3\791bf309910eed88e1d37b2d81c3c311\transformed\sqlite-framework-2.4.0\AndroidManifest.xml:20:5-44
+MERGED from [androidx.sqlite:sqlite:2.4.0] C:\Users\SASHA\.gradle\caches\transforms-3\2ea24be48742d1db5c469c8abb5c16c7\transformed\sqlite-2.4.0\AndroidManifest.xml:20:5-44
+MERGED from [androidx.sqlite:sqlite:2.4.0] C:\Users\SASHA\.gradle\caches\transforms-3\2ea24be48742d1db5c469c8abb5c16c7\transformed\sqlite-2.4.0\AndroidManifest.xml:20:5-44
+MERGED from [androidx.versionedparcelable:versionedparcelable:1.1.0] C:\Users\SASHA\.gradle\caches\transforms-3\7a1ff5a23d45e8270cb10429ea4d29f7\transformed\versionedparcelable-1.1.0\AndroidManifest.xml:20:5-22:41
+MERGED from [androidx.versionedparcelable:versionedparcelable:1.1.0] C:\Users\SASHA\.gradle\caches\transforms-3\7a1ff5a23d45e8270cb10429ea4d29f7\transformed\versionedparcelable-1.1.0\AndroidManifest.xml:20:5-22:41
+MERGED from [androidx.documentfile:documentfile:1.0.0] C:\Users\SASHA\.gradle\caches\transforms-3\dc95db927df936e003ea23f2b843af5c\transformed\documentfile-1.0.0\AndroidManifest.xml:20:5-44
+MERGED from [androidx.documentfile:documentfile:1.0.0] C:\Users\SASHA\.gradle\caches\transforms-3\dc95db927df936e003ea23f2b843af5c\transformed\documentfile-1.0.0\AndroidManifest.xml:20:5-44
+MERGED from [androidx.localbroadcastmanager:localbroadcastmanager:1.0.0] C:\Users\SASHA\.gradle\caches\transforms-3\4a128805ae54552b7183634231e39ff5\transformed\localbroadcastmanager-1.0.0\AndroidManifest.xml:20:5-44
+MERGED from [androidx.localbroadcastmanager:localbroadcastmanager:1.0.0] C:\Users\SASHA\.gradle\caches\transforms-3\4a128805ae54552b7183634231e39ff5\transformed\localbroadcastmanager-1.0.0\AndroidManifest.xml:20:5-44
+MERGED from [androidx.print:print:1.0.0] C:\Users\SASHA\.gradle\caches\transforms-3\ae4109ec1e873f2074e4c3a60211a759\transformed\print-1.0.0\AndroidManifest.xml:20:5-44
+MERGED from [androidx.print:print:1.0.0] C:\Users\SASHA\.gradle\caches\transforms-3\ae4109ec1e873f2074e4c3a60211a759\transformed\print-1.0.0\AndroidManifest.xml:20:5-44
+MERGED from [androidx.annotation:annotation-experimental:1.1.0-rc01] C:\Users\SASHA\.gradle\caches\transforms-3\a8e41261f8e48f5f7c74b9192cc5ff07\transformed\jetified-annotation-experimental-1.1.0-rc01\AndroidManifest.xml:20:5-22:41
+MERGED from [androidx.annotation:annotation-experimental:1.1.0-rc01] C:\Users\SASHA\.gradle\caches\transforms-3\a8e41261f8e48f5f7c74b9192cc5ff07\transformed\jetified-annotation-experimental-1.1.0-rc01\AndroidManifest.xml:20:5-22:41
+INJECTED from C:\Users\SASHA\Desktop\LampWiz\app\src\main\AndroidManifest.xml
+INJECTED from C:\Users\SASHA\Desktop\LampWiz\app\src\main\AndroidManifest.xml
+	android:targetSdkVersion
+		INJECTED from C:\Users\SASHA\Desktop\LampWiz\app\src\main\AndroidManifest.xml
+		ADDED from C:\Users\SASHA\Desktop\LampWiz\app\src\main\AndroidManifest.xml
+		INJECTED from C:\Users\SASHA\Desktop\LampWiz\app\src\main\AndroidManifest.xml
+	android:minSdkVersion
+		INJECTED from C:\Users\SASHA\Desktop\LampWiz\app\src\main\AndroidManifest.xml
+		ADDED from C:\Users\SASHA\Desktop\LampWiz\app\src\main\AndroidManifest.xml
+		INJECTED from C:\Users\SASHA\Desktop\LampWiz\app\src\main\AndroidManifest.xml
+service#androidx.room.MultiInstanceInvalidationService
+ADDED from [androidx.room:room-runtime:2.6.0] C:\Users\SASHA\.gradle\caches\transforms-3\d03bcee5c420869636350ca3dfbd123b\transformed\room-runtime-2.6.0\AndroidManifest.xml:24:9-28:63
+	android:exported
+		ADDED from [androidx.room:room-runtime:2.6.0] C:\Users\SASHA\.gradle\caches\transforms-3\d03bcee5c420869636350ca3dfbd123b\transformed\room-runtime-2.6.0\AndroidManifest.xml:27:13-37
+	tools:ignore
+		ADDED from [androidx.room:room-runtime:2.6.0] C:\Users\SASHA\.gradle\caches\transforms-3\d03bcee5c420869636350ca3dfbd123b\transformed\room-runtime-2.6.0\AndroidManifest.xml:28:13-60
+	android:directBootAware
+		ADDED from [androidx.room:room-runtime:2.6.0] C:\Users\SASHA\.gradle\caches\transforms-3\d03bcee5c420869636350ca3dfbd123b\transformed\room-runtime-2.6.0\AndroidManifest.xml:26:13-43
+	android:name
+		ADDED from [androidx.room:room-runtime:2.6.0] C:\Users\SASHA\.gradle\caches\transforms-3\d03bcee5c420869636350ca3dfbd123b\transformed\room-runtime-2.6.0\AndroidManifest.xml:25:13-74
+provider#androidx.lifecycle.ProcessLifecycleOwnerInitializer
+ADDED from [androidx.lifecycle:lifecycle-process:2.2.0] C:\Users\SASHA\.gradle\caches\transforms-3\93cdecdf35e0ebb0a6747a982095a512\transformed\jetified-lifecycle-process-2.2.0\AndroidManifest.xml:25:9-29:43
+	android:authorities
+		ADDED from [androidx.lifecycle:lifecycle-process:2.2.0] C:\Users\SASHA\.gradle\caches\transforms-3\93cdecdf35e0ebb0a6747a982095a512\transformed\jetified-lifecycle-process-2.2.0\AndroidManifest.xml:27:13-69
+	android:multiprocess
+		ADDED from [androidx.lifecycle:lifecycle-process:2.2.0] C:\Users\SASHA\.gradle\caches\transforms-3\93cdecdf35e0ebb0a6747a982095a512\transformed\jetified-lifecycle-process-2.2.0\AndroidManifest.xml:29:13-40
+	android:exported
+		ADDED from [androidx.lifecycle:lifecycle-process:2.2.0] C:\Users\SASHA\.gradle\caches\transforms-3\93cdecdf35e0ebb0a6747a982095a512\transformed\jetified-lifecycle-process-2.2.0\AndroidManifest.xml:28:13-37
+	android:name
+		ADDED from [androidx.lifecycle:lifecycle-process:2.2.0] C:\Users\SASHA\.gradle\caches\transforms-3\93cdecdf35e0ebb0a6747a982095a512\transformed\jetified-lifecycle-process-2.2.0\AndroidManifest.xml:26:13-79
